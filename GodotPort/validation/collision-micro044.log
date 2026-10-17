@@ -1,0 +1,7 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+COLLISION_TIMING density=10 old_us=443.848333333333 new_us=330.853333333333
+COLLISION_TIMING density=25 old_us=639.8 new_us=416.62
+COLLISION_TIMING density=80 old_us=1187.66083333333 new_us=673.355833333333

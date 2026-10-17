@@ -1,0 +1,12 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.5.2.260413 - Compatibility - Using Device: ATI Technologies Inc. - Radeon RX550/550 Series
+
+BOOT_LOADING_VISIBLE ms=1212
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=55 classes=2774 ready_ms=3436
+BACKGROUND_SOURCE_READY {"blocking_wait_ms":0.0,"blocking_waits":0,"elapsed_ms":5182,"loaded_groups":["startup","actors","game","interface","utilities"]}
+BINARY_BENCHMARK {"animation_ms":2.75607972665148,"draw_calls":129.0,"game_ms":15.3267448747153,"gpu_pause_snapshot_ms":41.756,"gpu_pause_snapshots":1,"memory":0.0,"physics_ms":18.6025193621868,"rendered_fps":142.118472779988,"seconds":15.029714,"simulation_hz":29.2088059692952,"text_cache_entries":120,"texture_memory":281782817.0}
+BINARY_SOURCE_STATUS {"background":{"blocking_wait_ms":0.0,"blocking_waits":0,"elapsed_ms":5182,"loaded_groups":["startup","actors","game","interface","utilities"]},"blocking_wait_ms":0.0,"blocking_waits":0,"loaded_groups":["startup","actors","game","interface","utilities"],"pending_groups":[]}
+BINARY_FRAME_PACING {"engine_physics_hz":29.2088059692952,"frames":{"over_20ms_percent":20.0936768149883,"p50_ms":2.574,"p95_ms":23.618,"p99_ms":29.398,"samples":2135,"worst_ms":276.803},"max_steps":2,"measured_updates_hz":29.2088059692952,"physics_ticks_per_second":30,"render_cap":240,"time_scale":1.0}
+BINARY_PLAYER_STATE {"fail_type":-1,"failed":false,"hp":null,"interior_alpha":1.0,"interior_frame":1,"interior_visible":true}
+BINARY_GAMEPLAY_COMPLETE position=197.793200919042 warnings={  }

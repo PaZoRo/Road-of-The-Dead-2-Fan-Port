@@ -1,0 +1,18 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.5.2.260413 - Compatibility - Using Device: ATI Technologies Inc. - Radeon RX550/550 Series
+
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=55 classes=2774
+PERFORMANCE_START state=1 entities=4 frame=381
+PERFORMANCE_INIT tick=0 state=1 entities=237 frame=382 paused=false
+PERFORMANCE_PROGRESS tick=0 position=0.0
+PERFORMANCE_INIT tick=1 state=1 entities=237 frame=383 paused=false
+PERFORMANCE_INIT tick=2 state=1 entities=237 frame=384 paused=false
+PERFORMANCE_INIT tick=3 state=1 entities=237 frame=385 paused=false
+PERFORMANCE_INIT tick=4 state=1 entities=237 frame=386 paused=false
+PERFORMANCE_PROGRESS tick=120 position=13.044889934399
+PAUSE_CAPTURE_COMPARISON {"cpu":{"ms":921.804,"new_model_values":159,"snapshots":0},"gpu":{"ms":26.72,"new_model_values":0,"snapshots":1}}
+PERFORMANCE_PAUSE {"gpu_ms":186.92,"gpu_snapshots":3,"ms":40.95,"world_transform":"[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)]"}
+PERFORMANCE_PROGRESS tick=240 position=45.7918934316727
+PERFORMANCE_PROGRESS tick=360 position=63.0006443755983
+PERFORMANCE_RESULT {"after":{"memory":696646889.0,"nodes":1718.0,"orphans":3548.0},"before":{"memory":664158304.0,"nodes":1755.0,"orphans":3362.0},"deferred_visual_frames":36428,"gpu_pause_snapshot_ms":186.92,"gpu_pause_snapshots":3,"graphical":true,"mean_update_ms":21.1249027777778,"p95_update_ms":29.101,"phase_mean_ms":{"animation_us":3.75067777777778,"effects_us":0.303694444444444,"gameplay_us":16.5096972222222,"pointer_us":0.544455555555555,"render_us":0.00591666666666667},"position":64.3424073896269,"recycled_shapes":3164,"ticks":360,"wall_fps":35.0185355053904,"warnings":{}}

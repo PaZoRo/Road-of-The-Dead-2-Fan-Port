@@ -1,0 +1,3 @@
+# Validation — Fan Port 0.4.19
+
+25 functional suites and seven targeted actual-renderer suites passed. Intro/selection captures were visually inspected. A 35-second real-time intro test checked stream synchronization, selection input, scope cleanup and Story entry. Seven executable driving runs and one loading/menu smoke run passed strict runtime/script/shader checks; the OS certificate-store diagnostic is excluded. Full source hashes, bundles and pattern parity were audited. See WINDOWS-BUILD.json and PERFORMANCE.md for measurements and limits; steady 60 FPS and full playthrough parity remain unproven.

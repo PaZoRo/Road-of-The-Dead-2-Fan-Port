@@ -1,0 +1,73 @@
+{
+  "created_utc": "2026-10-08T21:09:48.393115+00:00",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "checks": {
+    "compilation": {
+      "passed": true,
+      "completion": "COMPILE_RESULT scripts=2774 failures=0",
+      "errors": []
+    },
+    "semantics": {
+      "passed": true,
+      "completion": "TEST_SEMANTICS_COMPLETE failures=[]",
+      "errors": []
+    },
+    "interface": {
+      "passed": true,
+      "completion": "TEST_INTERFACE_COMPLETE failures=[] warnings={  }",
+      "errors": []
+    },
+    "persistence": {
+      "passed": true,
+      "completion": "TEST_PERSISTENCE_COMPLETE failures=[] warnings={  }",
+      "errors": []
+    },
+    "modes": {
+      "passed": true,
+      "completion": "TEST_MODES_COMPLETE warnings={  }",
+      "errors": []
+    },
+    "weapons": {
+      "passed": true,
+      "completion": "TEST_WEAPONS_COMPLETE failures=[] warnings={  }",
+      "errors": []
+    },
+    "driving": {
+      "passed": true,
+      "completion": "TEST_GAMEPLAY_COMPLETE passed=true warnings={  }",
+      "errors": []
+    },
+    "visual": {
+      "passed": true,
+      "completion": "TEST_VISUAL_COMPLETE warnings={  }",
+      "errors": []
+    },
+    "export": {
+      "passed": true,
+      "completion": "TEST_EXPORT_COMPLETE missing=[] classes=2774 warnings={  }",
+      "errors": []
+    }
+  },
+  "coverage": {
+    "translated_sources": 2774,
+    "source_methods": 7096,
+    "source_fields": 5754,
+    "asset_definitions": 11155,
+    "timelines": 3928,
+    "named_sounds": 1362,
+    "weapon_instances": 12,
+    "driving_ticks": 240
+  },
+  "asset_audit": {
+    "missing_paths": [],
+    "unresolved_symbols": []
+  },
+  "performance": {
+    "sustained_ticks": 120,
+    "elapsed_ms": 10086,
+    "iterations_per_second": 11.9
+  },
+  "graphics": "Radeon RX550/550 Series, OpenGL 3.3 compatibility",
+  "known_host_diagnostic": "Godot could not read the Windows root certificate store. Offline game and tests do not require network TLS.",
+  "verification_limits": "Representative checks, not a completed story playthrough or proof of exact Flash parity. See README.md for compatibility and service differences."
+}

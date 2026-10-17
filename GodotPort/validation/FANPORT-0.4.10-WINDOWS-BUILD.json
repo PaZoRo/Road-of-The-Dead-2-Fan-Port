@@ -1,0 +1,3914 @@
+{
+  "version": "0.4.10",
+  "engine": "Godot 4.7.2 Stable release",
+  "platform": "Windows x86_64",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "0ae57147d50280786a7f82d7bcbedae8ddb564a26ea5a8a0f1c6476addf3bc54",
+  "logical_size": [
+    600,
+    400
+  ],
+  "framebuffer_size": [
+    1200,
+    800
+  ],
+  "render_cap": 90,
+  "simulation_hz": 30,
+  "save_location_changed": false,
+  "target_fps": 60,
+  "steady_60_fps_achieved": false,
+  "runs": {
+    "release050-control": {
+      "startup_ms": 5847,
+      "benchmark": {
+        "animation_ms": 2.78903211009174,
+        "draw_calls": 133.0,
+        "game_ms": 16.1812775229358,
+        "gpu_pause_snapshot_ms": 79.967,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 19.4952660550459,
+        "rendered_fps": 82.1183604189503,
+        "seconds": 15.002735,
+        "simulation_hz": 29.0613678106025,
+        "text_cache_entries": 120,
+        "texture_memory": 283722489.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.0613678106025,
+        "frames": {
+          "over_20ms_percent": 34.4435418359058,
+          "p50_ms": 2.168,
+          "p95_ms": 31.782,
+          "p99_ms": 36.708,
+          "samples": 1231,
+          "worst_ms": 336.35
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.0613678106025,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=188.753211983583 warnings={  }"
+    },
+    "release050": {
+      "startup_ms": 5816,
+      "benchmark": {
+        "animation_ms": 2.73283826879271,
+        "draw_calls": 131.0,
+        "game_ms": 15.5283166287016,
+        "gpu_pause_snapshot_ms": 81.841,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.7669202733485,
+        "rendered_fps": 83.4047232500817,
+        "seconds": 15.02313,
+        "simulation_hz": 29.2216069487517,
+        "text_cache_entries": 120,
+        "texture_memory": 280798485.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.2216069487517,
+        "frames": {
+          "over_20ms_percent": 33.4664536741214,
+          "p50_ms": 2.212,
+          "p95_ms": 32.56,
+          "p99_ms": 36.871,
+          "samples": 1252,
+          "worst_ms": 278.427
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.2216069487517,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.721442712914 warnings={  }"
+    },
+    "release050-reference": {
+      "startup_ms": 5882,
+      "benchmark": {
+        "animation_ms": 2.68115489749431,
+        "draw_calls": 131.0,
+        "game_ms": 15.4967835990888,
+        "gpu_pause_snapshot_ms": 80.646,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.6768883826879,
+        "rendered_fps": 83.2804315084689,
+        "seconds": 15.021536,
+        "simulation_hz": 29.2247077795506,
+        "text_cache_entries": 120,
+        "texture_memory": 280798485.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.2247077795506,
+        "frames": {
+          "over_20ms_percent": 33.44,
+          "p50_ms": 2.22,
+          "p95_ms": 32.463,
+          "p99_ms": 36.426,
+          "samples": 1250,
+          "worst_ms": 289.105
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.2247077795506,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.720112463555 warnings={  }"
+    },
+    "release050-repeat": {
+      "startup_ms": 5809,
+      "benchmark": {
+        "animation_ms": 2.70645433789954,
+        "draw_calls": 131.0,
+        "game_ms": 15.222198630137,
+        "gpu_pause_snapshot_ms": 80.224,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.416,
+        "rendered_fps": 83.2368945306041,
+        "seconds": 15.029393,
+        "simulation_hz": 29.1428935287007,
+        "text_cache_entries": 120,
+        "texture_memory": 283722489.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.1428935287007,
+        "frames": {
+          "over_20ms_percent": 33.36,
+          "p50_ms": 2.463,
+          "p95_ms": 31.558,
+          "p99_ms": 36.323,
+          "samples": 1250,
+          "worst_ms": 306.399
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.1428935287007,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=189.631789284031 warnings={  }"
+    },
+    "release050-control-repeat": {
+      "startup_ms": 5864,
+      "benchmark": {
+        "animation_ms": 2.81661926605505,
+        "draw_calls": 140.0,
+        "game_ms": 16.7131330275229,
+        "gpu_pause_snapshot_ms": 79.489,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 20.0599449541284,
+        "rendered_fps": 81.5486365447111,
+        "seconds": 15.033973,
+        "simulation_hz": 29.0009833062757,
+        "text_cache_entries": 120,
+        "texture_memory": 284988717.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.0009833062757,
+        "frames": {
+          "over_20ms_percent": 35.0204081632653,
+          "p50_ms": 2.141,
+          "p95_ms": 32.136,
+          "p99_ms": 37.467,
+          "samples": 1225,
+          "worst_ms": 361.638
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.0009833062757,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=196.964194391209 warnings={  }"
+    },
+    "release050-60": {
+      "startup_ms": 5887,
+      "benchmark": {
+        "animation_ms": 2.67119221967963,
+        "draw_calls": 138.0,
+        "game_ms": 15.5898054919908,
+        "gpu_pause_snapshot_ms": 79.833,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.7521967963387,
+        "rendered_fps": 57.5663553735497,
+        "seconds": 15.026138,
+        "simulation_hz": 29.082655836117,
+        "text_cache_entries": 120,
+        "texture_memory": 284988717.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.082655836117,
+        "frames": {
+          "over_20ms_percent": 46.9907407407407,
+          "p50_ms": 18.645,
+          "p95_ms": 36.991,
+          "p99_ms": 39.021,
+          "samples": 864,
+          "worst_ms": 345.088
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.082655836117,
+        "physics_ticks_per_second": 30,
+        "render_cap": 60,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.191799821127 warnings={  }"
+    },
+    "release050-profile": {
+      "startup_ms": 5931,
+      "benchmark": {
+        "animation_ms": 2.91998156682028,
+        "draw_calls": 140.0,
+        "game_ms": 17.1764677419355,
+        "gpu_pause_snapshot_ms": 78.968,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 20.5991428571429,
+        "rendered_fps": 79.6442706977465,
+        "seconds": 15.004218,
+        "simulation_hz": 28.925199567215,
+        "text_cache_entries": 120,
+        "texture_memory": 284793545.0
+      },
+      "pacing": {
+        "engine_physics_hz": 28.925199567215,
+        "frames": {
+          "over_20ms_percent": 35.678391959799,
+          "p50_ms": 1.948,
+          "p95_ms": 33.444,
+          "p99_ms": 38.257,
+          "samples": 1194,
+          "worst_ms": 376.96
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 28.925199567215,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=196.43575880804 warnings={  }"
+    }
+  },
+  "collections_microbenchmark": {
+    "cases": [
+      {
+        "class": "RandomHat",
+        "native_us": 161.987666666667,
+        "reference_us": 978.597666666667,
+        "samples_us": [
+          [
+            983.802,
+            984.762,
+            972.118,
+            966.088,
+            986.022,
+            978.794
+          ],
+          [
+            159.972,
+            170.668,
+            159.684,
+            160.618,
+            160.998,
+            159.986
+          ]
+        ]
+      },
+      {
+        "class": "SequentialArray",
+        "native_us": 398.029333333333,
+        "reference_us": 566.188,
+        "samples_us": [
+          [
+            571.212,
+            567.74,
+            566.658,
+            563.884,
+            563.028,
+            564.606
+          ],
+          [
+            402.27,
+            402.038,
+            401.586,
+            395.406,
+            392.94,
+            393.936
+          ]
+        ]
+      }
+    ],
+    "instances_per_implementation_per_class": 3000,
+    "warnings": {}
+  },
+  "sound_microbenchmark": {
+    "cases": [
+      {
+        "class": "DTSound",
+        "native_us": 179.029,
+        "previous_us": 304.596,
+        "samples_us": [
+          [
+            295.378,
+            362.126,
+            291.986,
+            289.354,
+            295.716,
+            293.016
+          ],
+          [
+            182.16,
+            186.824,
+            187.368,
+            172.858,
+            173.562,
+            171.402
+          ]
+        ]
+      },
+      {
+        "class": "DTSpacialSound",
+        "native_us": 199.863,
+        "previous_us": 318.690666666667,
+        "samples_us": [
+          [
+            318.68,
+            318.63,
+            319.622,
+            317.876,
+            316.972,
+            320.364
+          ],
+          [
+            200.194,
+            198.056,
+            200.934,
+            199.992,
+            200.39,
+            199.612
+          ]
+        ]
+      }
+    ],
+    "classes": 2,
+    "instances_per_implementation_per_class": 3000,
+    "warnings": {}
+  },
+  "construction_profile": {
+    "Box": {
+      "count": 216,
+      "phases": {
+        "finish": 2972
+      },
+      "self_us": 2972,
+      "total_us": 3748
+    },
+    "ColorTransform": {
+      "count": 289,
+      "phases": {
+        "finish": 6619
+      },
+      "self_us": 6619,
+      "total_us": 7802
+    },
+    "DTSpacialSound": {
+      "count": 102,
+      "phases": {
+        "allocation_statics": 1285,
+        "body": 10801,
+        "fields": 5074,
+        "finish": 296,
+        "schema_display": 850,
+        "symbol": 389
+      },
+      "self_us": 18695,
+      "total_us": 27810
+    },
+    "DTVector2D": {
+      "count": 146,
+      "phases": {
+        "finish": 2419
+      },
+      "self_us": 2419,
+      "total_us": 2973
+    },
+    "DTVector3D": {
+      "count": 379,
+      "phases": {
+        "finish": 6221
+      },
+      "self_us": 6221,
+      "total_us": 7498
+    },
+    "Event": {
+      "count": 5916,
+      "phases": {
+        "allocation_statics": 63662,
+        "body": 10570,
+        "fields": 14371,
+        "finish": 16338,
+        "schema_display": 59514,
+        "symbol": 19234
+      },
+      "self_us": 183689,
+      "total_us": 200463
+    },
+    "MC_BuildingChurchFront1": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 21,
+        "body": 9,
+        "fields": 6,
+        "finish": 3,
+        "schema_display": 68,
+        "symbol": 339
+      },
+      "self_us": 446,
+      "total_us": 1758
+    },
+    "MC_BuildingChurchSide1": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 19,
+        "body": 15,
+        "fields": 6,
+        "finish": 4,
+        "schema_display": 66,
+        "symbol": 578
+      },
+      "self_us": 688,
+      "total_us": 2138
+    },
+    "MC_BuildingResidentialFront1": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 8,
+        "fields": 5,
+        "finish": 4,
+        "schema_display": 18,
+        "symbol": 36
+      },
+      "self_us": 82,
+      "total_us": 86
+    },
+    "MC_BuildingResidentialFront4": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 19,
+        "body": 8,
+        "fields": 4,
+        "finish": 4,
+        "schema_display": 54,
+        "symbol": 213
+      },
+      "self_us": 302,
+      "total_us": 306
+    },
+    "MC_BuildingResidentialFront5": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 12,
+        "body": 8,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 18,
+        "symbol": 35
+      },
+      "self_us": 81,
+      "total_us": 86
+    },
+    "MC_BuildingResidentialFront7": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 13,
+        "body": 9,
+        "fields": 6,
+        "finish": 3,
+        "schema_display": 19,
+        "symbol": 39
+      },
+      "self_us": 89,
+      "total_us": 93
+    },
+    "MC_BuildingResidentialSide1": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 8,
+        "fields": 8,
+        "finish": 4,
+        "schema_display": 20,
+        "symbol": 109
+      },
+      "self_us": 160,
+      "total_us": 366
+    },
+    "MC_BuildingResidentialSide4": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 19,
+        "body": 8,
+        "fields": 6,
+        "finish": 3,
+        "schema_display": 57,
+        "symbol": 350
+      },
+      "self_us": 443,
+      "total_us": 1354
+    },
+    "MC_BuildingResidentialSide5": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 12,
+        "body": 8,
+        "fields": 7,
+        "finish": 3,
+        "schema_display": 18,
+        "symbol": 101
+      },
+      "self_us": 149,
+      "total_us": 267
+    },
+    "MC_BuildingResidentialSide7": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 10,
+        "fields": 8,
+        "finish": 3,
+        "schema_display": 21,
+        "symbol": 114
+      },
+      "self_us": 167,
+      "total_us": 301
+    },
+    "MC_Bush1": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 24,
+        "body": 179,
+        "fields": 18,
+        "finish": 6,
+        "schema_display": 40,
+        "symbol": 173
+      },
+      "self_us": 440,
+      "total_us": 583
+    },
+    "MC_Bush2": {
+      "count": 8,
+      "phases": {
+        "allocation_statics": 111,
+        "body": 818,
+        "fields": 69,
+        "finish": 29,
+        "schema_display": 194,
+        "symbol": 934
+      },
+      "self_us": 2155,
+      "total_us": 3898
+    },
+    "MC_Bush3": {
+      "count": 10,
+      "phases": {
+        "allocation_statics": 141,
+        "body": 1030,
+        "fields": 99,
+        "finish": 33,
+        "schema_display": 253,
+        "symbol": 1220
+      },
+      "self_us": 2776,
+      "total_us": 3673
+    },
+    "MC_Fence": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 43,
+        "body": 658,
+        "fields": 21,
+        "finish": 8,
+        "schema_display": 86,
+        "symbol": 4879
+      },
+      "self_us": 5695,
+      "total_us": 5924
+    },
+    "MC_HiddenSoldierIcon": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 24,
+        "body": 16,
+        "fields": 10,
+        "finish": 7,
+        "schema_display": 32,
+        "symbol": 139
+      },
+      "self_us": 228,
+      "total_us": 235
+    },
+    "MC_LevelGround_CrossingStreet": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 15,
+        "body": 8,
+        "fields": 5,
+        "finish": 4,
+        "schema_display": 34,
+        "symbol": 15
+      },
+      "self_us": 81,
+      "total_us": 85
+    },
+    "MC_LevelGround_GrassAndPavement": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 35,
+        "body": 24,
+        "fields": 15,
+        "finish": 9,
+        "schema_display": 53,
+        "symbol": 44
+      },
+      "self_us": 180,
+      "total_us": 190
+    },
+    "MC_LevelGround_PavementAndGrass": {
+      "count": 6,
+      "phases": {
+        "allocation_statics": 72,
+        "body": 48,
+        "fields": 27,
+        "finish": 19,
+        "schema_display": 99,
+        "symbol": 87
+      },
+      "self_us": 352,
+      "total_us": 372
+    },
+    "MC_LevelObject_ArmyTruck": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 39,
+        "body": 23,
+        "fields": 13,
+        "finish": 9,
+        "schema_display": 81,
+        "symbol": 945
+      },
+      "self_us": 1110,
+      "total_us": 1120
+    },
+    "MC_LevelObject_Barracade": {
+      "count": 8,
+      "phases": {
+        "allocation_statics": 93,
+        "body": 65,
+        "fields": 36,
+        "finish": 24,
+        "schema_display": 160,
+        "symbol": 369
+      },
+      "self_us": 747,
+      "total_us": 767
+    },
+    "MC_LevelObject_Box": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 30,
+        "body": 15,
+        "fields": 8,
+        "finish": 7,
+        "schema_display": 68,
+        "symbol": 303
+      },
+      "self_us": 431,
+      "total_us": 437
+    },
+    "MC_LevelObject_BuildingChurchLeft": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 18,
+        "body": 8,
+        "fields": 6,
+        "finish": 4,
+        "schema_display": 61,
+        "symbol": 334
+      },
+      "self_us": 431,
+      "total_us": 576
+    },
+    "MC_LevelObject_BuildingResidentialLeft": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 51,
+        "body": 32,
+        "fields": 26,
+        "finish": 13,
+        "schema_display": 75,
+        "symbol": 390
+      },
+      "self_us": 587,
+      "total_us": 1072
+    },
+    "MC_LevelObject_BuildingResidentialRight": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 25,
+        "body": 16,
+        "fields": 13,
+        "finish": 6,
+        "schema_display": 33,
+        "symbol": 185
+      },
+      "self_us": 278,
+      "total_us": 505
+    },
+    "MC_LevelObject_Bush1": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 41,
+        "body": 29,
+        "fields": 18,
+        "finish": 12,
+        "schema_display": 63,
+        "symbol": 55
+      },
+      "self_us": 218,
+      "total_us": 230
+    },
+    "MC_LevelObject_Bush2": {
+      "count": 8,
+      "phases": {
+        "allocation_statics": 93,
+        "body": 61,
+        "fields": 37,
+        "finish": 26,
+        "schema_display": 247,
+        "symbol": 401
+      },
+      "self_us": 865,
+      "total_us": 889
+    },
+    "MC_LevelObject_Bush3": {
+      "count": 10,
+      "phases": {
+        "allocation_statics": 107,
+        "body": 69,
+        "fields": 43,
+        "finish": 31,
+        "schema_display": 155,
+        "symbol": 135
+      },
+      "self_us": 540,
+      "total_us": 568
+    },
+    "MC_LevelObject_Dumpster": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 43,
+        "body": 30,
+        "fields": 21,
+        "finish": 12,
+        "schema_display": 66,
+        "symbol": 55
+      },
+      "self_us": 227,
+      "total_us": 240
+    },
+    "MC_LevelObject_ElectronicSign": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 17,
+        "body": 8,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 52,
+        "symbol": 150
+      },
+      "self_us": 234,
+      "total_us": 238
+    },
+    "MC_LevelObject_Fence": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 55,
+        "body": 28,
+        "fields": 16,
+        "finish": 12,
+        "schema_display": 109,
+        "symbol": 356
+      },
+      "self_us": 576,
+      "total_us": 588
+    },
+    "MC_LevelObject_FireHydrant": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 10,
+        "body": 7,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 16,
+        "symbol": 14
+      },
+      "self_us": 55,
+      "total_us": 60
+    },
+    "MC_LevelObject_GrassTop": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 28,
+        "body": 15,
+        "fields": 9,
+        "finish": 6,
+        "schema_display": 71,
+        "symbol": 300
+      },
+      "self_us": 429,
+      "total_us": 436
+    },
+    "MC_LevelObject_HummerNarrowDamaged": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 31,
+        "body": 16,
+        "fields": 8,
+        "finish": 6,
+        "schema_display": 70,
+        "symbol": 443
+      },
+      "self_us": 574,
+      "total_us": 581
+    },
+    "MC_LevelObject_HummerWide": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 13,
+        "body": 7,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 17,
+        "symbol": 15
+      },
+      "self_us": 60,
+      "total_us": 65
+    },
+    "MC_LevelObject_HummerWideDamaged": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 15,
+        "fields": 9,
+        "finish": 7,
+        "schema_display": 70,
+        "symbol": 508
+      },
+      "self_us": 642,
+      "total_us": 649
+    },
+    "MC_LevelObject_LargeCarNarrowCrashed": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 8,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 16,
+        "symbol": 15
+      },
+      "self_us": 58,
+      "total_us": 62
+    },
+    "MC_LevelObject_LawnFlamingo": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 14,
+        "fields": 9,
+        "finish": 6,
+        "schema_display": 31,
+        "symbol": 26
+      },
+      "self_us": 108,
+      "total_us": 116
+    },
+    "MC_LevelObject_MailBox": {
+      "count": 7,
+      "phases": {
+        "allocation_statics": 100,
+        "body": 50,
+        "fields": 33,
+        "finish": 21,
+        "schema_display": 109,
+        "symbol": 97
+      },
+      "self_us": 410,
+      "total_us": 431
+    },
+    "MC_LevelObject_MapleTree": {
+      "count": 25,
+      "phases": {
+        "allocation_statics": 252,
+        "body": 180,
+        "fields": 108,
+        "finish": 86,
+        "schema_display": 491,
+        "symbol": 329
+      },
+      "self_us": 1446,
+      "total_us": 1512
+    },
+    "MC_LevelObject_MediumCarNarrow": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 12,
+        "body": 8,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 16,
+        "symbol": 103
+      },
+      "self_us": 147,
+      "total_us": 832
+    },
+    "MC_LevelObject_MediumCarWide": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 15,
+        "fields": 9,
+        "finish": 6,
+        "schema_display": 31,
+        "symbol": 156
+      },
+      "self_us": 239,
+      "total_us": 1416
+    },
+    "MC_LevelObject_Mine": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 35,
+        "body": 20,
+        "fields": 13,
+        "finish": 9,
+        "schema_display": 50,
+        "symbol": 40
+      },
+      "self_us": 167,
+      "total_us": 177
+    },
+    "MC_LevelObject_MovingCar": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 7,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 17,
+        "symbol": 15
+      },
+      "self_us": 58,
+      "total_us": 64
+    },
+    "MC_LevelObject_Oil": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 14,
+        "fields": 9,
+        "finish": 6,
+        "schema_display": 32,
+        "symbol": 31
+      },
+      "self_us": 114,
+      "total_us": 122
+    },
+    "MC_LevelObject_PineTree": {
+      "count": 6,
+      "phases": {
+        "allocation_statics": 70,
+        "body": 44,
+        "fields": 27,
+        "finish": 19,
+        "schema_display": 196,
+        "symbol": 234
+      },
+      "self_us": 590,
+      "total_us": 606
+    },
+    "MC_LevelObject_PoliceCarNarrow": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 14,
+        "body": 8,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 17,
+        "symbol": 84
+      },
+      "self_us": 131,
+      "total_us": 771
+    },
+    "MC_LevelObject_PoliceCarWide": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 15,
+        "fields": 8,
+        "finish": 6,
+        "schema_display": 71,
+        "symbol": 299
+      },
+      "self_us": 432,
+      "total_us": 1762
+    },
+    "MC_LevelObject_RoadBlood": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 21,
+        "fields": 15,
+        "finish": 9,
+        "schema_display": 47,
+        "symbol": 49
+      },
+      "self_us": 174,
+      "total_us": 185
+    },
+    "MC_LevelObject_RoadKill": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 24,
+        "body": 14,
+        "fields": 10,
+        "finish": 6,
+        "schema_display": 34,
+        "symbol": 28
+      },
+      "self_us": 116,
+      "total_us": 123
+    },
+    "MC_LevelObject_SandBags": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 38,
+        "body": 24,
+        "fields": 14,
+        "finish": 9,
+        "schema_display": 82,
+        "symbol": 170
+      },
+      "self_us": 337,
+      "total_us": 348
+    },
+    "MC_LevelObject_SandBagsBloody": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 20,
+        "body": 8,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 53,
+        "symbol": 154
+      },
+      "self_us": 242,
+      "total_us": 247
+    },
+    "MC_LevelObject_SmallCarWide": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 25,
+        "body": 16,
+        "fields": 18,
+        "finish": 6,
+        "schema_display": 34,
+        "symbol": 186
+      },
+      "self_us": 285,
+      "total_us": 1704
+    },
+    "MC_LevelObject_SmallCarWideCrashed": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 15,
+        "fields": 9,
+        "finish": 6,
+        "schema_display": 79,
+        "symbol": 147
+      },
+      "self_us": 278,
+      "total_us": 1430
+    },
+    "MC_LevelObject_SmallHillTop": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 19,
+        "body": 10,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 52,
+        "symbol": 262
+      },
+      "self_us": 350,
+      "total_us": 354
+    },
+    "MC_LevelObject_SoldierBomb": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 19,
+        "body": 8,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 52,
+        "symbol": 255
+      },
+      "self_us": 342,
+      "total_us": 347
+    },
+    "MC_LevelObject_SoldierSpikes": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 37,
+        "body": 8,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 54,
+        "symbol": 260
+      },
+      "self_us": 367,
+      "total_us": 372
+    },
+    "MC_LevelObject_Spikes": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 46,
+        "body": 29,
+        "fields": 20,
+        "finish": 12,
+        "schema_display": 61,
+        "symbol": 62
+      },
+      "self_us": 230,
+      "total_us": 242
+    },
+    "MC_LevelObject_TrafficCone": {
+      "count": 8,
+      "phases": {
+        "allocation_statics": 86,
+        "body": 53,
+        "fields": 35,
+        "finish": 25,
+        "schema_display": 122,
+        "symbol": 102
+      },
+      "self_us": 423,
+      "total_us": 447
+    },
+    "MC_LevelObject_TrafficLight": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 21,
+        "body": 14,
+        "fields": 11,
+        "finish": 6,
+        "schema_display": 31,
+        "symbol": 27
+      },
+      "self_us": 110,
+      "total_us": 117
+    },
+    "MC_LevelObject_TrashCan": {
+      "count": 9,
+      "phases": {
+        "allocation_statics": 95,
+        "body": 64,
+        "fields": 42,
+        "finish": 28,
+        "schema_display": 139,
+        "symbol": 120
+      },
+      "self_us": 488,
+      "total_us": 514
+    },
+    "MC_LevelObject_ZombieHardFeed": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 20,
+        "body": 10,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 53,
+        "symbol": 924
+      },
+      "self_us": 1015,
+      "total_us": 4803
+    },
+    "MC_LevelObject_ZombieHardPatrol": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 9,
+        "body": 7,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 16,
+        "symbol": 14
+      },
+      "self_us": 54,
+      "total_us": 59
+    },
+    "MC_LevelObject_ZombieHardStraight": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 15,
+        "fields": 11,
+        "finish": 7,
+        "schema_display": 31,
+        "symbol": 27
+      },
+      "self_us": 113,
+      "total_us": 119
+    },
+    "MC_LevelObject_ZombieSoldierPatrol": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 19,
+        "body": 9,
+        "fields": 5,
+        "finish": 4,
+        "schema_display": 52,
+        "symbol": 1730
+      },
+      "self_us": 1819,
+      "total_us": 1823
+    },
+    "MC_LevelObject_ZombieSoldierStraight": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 44,
+        "body": 33,
+        "fields": 14,
+        "finish": 10,
+        "schema_display": 102,
+        "symbol": 1177
+      },
+      "self_us": 1380,
+      "total_us": 1389
+    },
+    "MC_LevelPattern_LG_Residential36checkpoint": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 20,
+        "body": 10,
+        "fields": 5,
+        "finish": 4,
+        "schema_display": 61,
+        "symbol": 4272
+      },
+      "self_us": 4372,
+      "total_us": 26397
+    },
+    "MC_LevelPattern_LG_ResidentialChurch3": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 9,
+        "fields": 5,
+        "finish": 5,
+        "schema_display": 57,
+        "symbol": 2816
+      },
+      "self_us": 2914,
+      "total_us": 14542
+    },
+    "MC_NewBuilding": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 25,
+        "body": 16,
+        "fields": 21,
+        "finish": 6,
+        "schema_display": 37,
+        "symbol": 413
+      },
+      "self_us": 518,
+      "total_us": 1377
+    },
+    "MC_Smoke": {
+      "count": 18,
+      "phases": {
+        "allocation_statics": 193,
+        "body": 152,
+        "fields": 90,
+        "finish": 67,
+        "schema_display": 289,
+        "symbol": 1030
+      },
+      "self_us": 1821,
+      "total_us": 1878
+    },
+    "MC_VehicleLargeCar12": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 26,
+        "body": 7,
+        "fields": 30,
+        "finish": 2,
+        "schema_display": 63,
+        "symbol": 436
+      },
+      "self_us": 564,
+      "total_us": 914
+    },
+    "MC_VehicleLargeCar20": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 20,
+        "body": 11,
+        "fields": 6,
+        "finish": 3,
+        "schema_display": 41,
+        "symbol": 214
+      },
+      "self_us": 295,
+      "total_us": 1589
+    },
+    "MC_VehicleLargeCar20Damaged": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 23,
+        "body": 9,
+        "fields": 6,
+        "finish": 4,
+        "schema_display": 36,
+        "symbol": 144
+      },
+      "self_us": 222,
+      "total_us": 2158
+    },
+    "MC_VehicleLargeCar21": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 17,
+        "body": 10,
+        "fields": 10,
+        "finish": 3,
+        "schema_display": 37,
+        "symbol": 300
+      },
+      "self_us": 377,
+      "total_us": 5668
+    },
+    "MC_VehicleLargeCarMoving": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 8,
+        "fields": 9,
+        "finish": 3,
+        "schema_display": 17,
+        "symbol": 228
+      },
+      "self_us": 276,
+      "total_us": 725
+    },
+    "MC_VehicleMediumCar01": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 12,
+        "body": 83,
+        "fields": 12,
+        "finish": 3,
+        "schema_display": 15,
+        "symbol": 169
+      },
+      "self_us": 294,
+      "total_us": 627
+    },
+    "MC_VehicleMediumCar02": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 342,
+        "fields": 40,
+        "finish": 9,
+        "schema_display": 59,
+        "symbol": 587
+      },
+      "self_us": 1070,
+      "total_us": 2032
+    },
+    "MC_VehicleMediumCar06": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 167,
+        "fields": 23,
+        "finish": 6,
+        "schema_display": 32,
+        "symbol": 326
+      },
+      "self_us": 576,
+      "total_us": 1151
+    },
+    "MC_VehicleMediumCar08": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 13,
+        "body": 92,
+        "fields": 14,
+        "finish": 4,
+        "schema_display": 16,
+        "symbol": 190
+      },
+      "self_us": 329,
+      "total_us": 672
+    },
+    "MC_VehicleMediumCar14": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 26,
+        "body": 200,
+        "fields": 31,
+        "finish": 3,
+        "schema_display": 67,
+        "symbol": 526
+      },
+      "self_us": 853,
+      "total_us": 1205
+    },
+    "MC_VehicleSmallCar01": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 35,
+        "body": 209,
+        "fields": 35,
+        "finish": 7,
+        "schema_display": 32,
+        "symbol": 333
+      },
+      "self_us": 651,
+      "total_us": 1394
+    },
+    "MC_VehicleSmallCar06": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 20,
+        "body": 157,
+        "fields": 23,
+        "finish": 7,
+        "schema_display": 28,
+        "symbol": 327
+      },
+      "self_us": 562,
+      "total_us": 1129
+    },
+    "MC_VehicleSmallCar07": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 86,
+        "fields": 14,
+        "finish": 4,
+        "schema_display": 20,
+        "symbol": 184
+      },
+      "self_us": 319,
+      "total_us": 625
+    },
+    "MC_VehicleSmallCar08": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 12,
+        "body": 145,
+        "fields": 14,
+        "finish": 4,
+        "schema_display": 28,
+        "symbol": 182
+      },
+      "self_us": 385,
+      "total_us": 669
+    },
+    "MC_YellowLine": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 47,
+        "body": 32,
+        "fields": 22,
+        "finish": 12,
+        "schema_display": 80,
+        "symbol": 152
+      },
+      "self_us": 345,
+      "total_us": 367
+    },
+    "MC_ZombieNormalFemale": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 939,
+        "fields": 22,
+        "finish": 5,
+        "schema_display": 69,
+        "symbol": 10769
+      },
+      "self_us": 11837,
+      "total_us": 16942
+    },
+    "MC_altmapletree": {
+      "count": 6,
+      "phases": {
+        "allocation_statics": 85,
+        "body": 947,
+        "fields": 87,
+        "finish": 21,
+        "schema_display": 186,
+        "symbol": 2279
+      },
+      "self_us": 3605,
+      "total_us": 14887
+    },
+    "MC_barracade": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 52,
+        "body": 472,
+        "fields": 21,
+        "finish": 6,
+        "schema_display": 103,
+        "symbol": 3438
+      },
+      "self_us": 4092,
+      "total_us": 4285
+    },
+    "MC_bunkerbloody": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 269,
+        "fields": 9,
+        "finish": 3,
+        "schema_display": 65,
+        "symbol": 3134
+      },
+      "self_us": 3513,
+      "total_us": 3573
+    },
+    "MC_deadtree": {
+      "count": 5,
+      "phases": {
+        "allocation_statics": 80,
+        "body": 822,
+        "fields": 68,
+        "finish": 19,
+        "schema_display": 138,
+        "symbol": 2248
+      },
+      "self_us": 3375,
+      "total_us": 12529
+    },
+    "MC_electronicsign": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 34,
+        "body": 234,
+        "fields": 19,
+        "finish": 3,
+        "schema_display": 70,
+        "symbol": 962
+      },
+      "self_us": 1322,
+      "total_us": 2485
+    },
+    "MC_grasstop": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 32,
+        "body": 30,
+        "fields": 9,
+        "finish": 8,
+        "schema_display": 80,
+        "symbol": 1332
+      },
+      "self_us": 1491,
+      "total_us": 1500
+    },
+    "MC_jasonmaskfront": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 542,
+        "fields": 17,
+        "finish": 4,
+        "schema_display": 17,
+        "symbol": 157
+      },
+      "self_us": 748,
+      "total_us": 891
+    },
+    "MC_jasonmaskfrontover": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 25,
+        "body": 704,
+        "fields": 34,
+        "finish": 7,
+        "schema_display": 52,
+        "symbol": 543
+      },
+      "self_us": 1365,
+      "total_us": 1374
+    },
+    "MC_lawnflamingo": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 23,
+        "body": 270,
+        "fields": 28,
+        "finish": 6,
+        "schema_display": 41,
+        "symbol": 229
+      },
+      "self_us": 597,
+      "total_us": 735
+    },
+    "MC_mailbox": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 24,
+        "body": 310,
+        "fields": 21,
+        "finish": 11,
+        "schema_display": 38,
+        "symbol": 709
+      },
+      "self_us": 1113,
+      "total_us": 1263
+    },
+    "MC_mapletree": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 32,
+        "body": 447,
+        "fields": 33,
+        "finish": 11,
+        "schema_display": 64,
+        "symbol": 452
+      },
+      "self_us": 1039,
+      "total_us": 1658
+    },
+    "MC_pinetree": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 32,
+        "body": 371,
+        "fields": 36,
+        "finish": 9,
+        "schema_display": 57,
+        "symbol": 532
+      },
+      "self_us": 1037,
+      "total_us": 1886
+    },
+    "MC_roadkill1": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 12,
+        "body": 140,
+        "fields": 9,
+        "finish": 12,
+        "schema_display": 18,
+        "symbol": 38
+      },
+      "self_us": 229,
+      "total_us": 284
+    },
+    "MC_roadkill3": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 12,
+        "body": 158,
+        "fields": 11,
+        "finish": 3,
+        "schema_display": 20,
+        "symbol": 49
+      },
+      "self_us": 253,
+      "total_us": 316
+    },
+    "MC_smallhilltop": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 32,
+        "body": 248,
+        "fields": 9,
+        "finish": 3,
+        "schema_display": 62,
+        "symbol": 885
+      },
+      "self_us": 1239,
+      "total_us": 1337
+    },
+    "MC_trafficcone": {
+      "count": 6,
+      "phases": {
+        "allocation_statics": 68,
+        "body": 911,
+        "fields": 53,
+        "finish": 20,
+        "schema_display": 104,
+        "symbol": 255
+      },
+      "self_us": 1411,
+      "total_us": 1935
+    },
+    "MC_truckbox": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 43,
+        "body": 425,
+        "fields": 18,
+        "finish": 6,
+        "schema_display": 79,
+        "symbol": 428
+      },
+      "self_us": 999,
+      "total_us": 1158
+    },
+    "MC_zombie1hoodgrapple13": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 15,
+        "body": 370,
+        "fields": 13,
+        "finish": 3,
+        "schema_display": 29,
+        "symbol": 67
+      },
+      "self_us": 497,
+      "total_us": 502
+    },
+    "MC_zombie1hoodgrapple22": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 17,
+        "body": 398,
+        "fields": 11,
+        "finish": 4,
+        "schema_display": 67,
+        "symbol": 222
+      },
+      "self_us": 719,
+      "total_us": 724
+    },
+    "MC_zombie1hoodgrapple23": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 14,
+        "body": 376,
+        "fields": 20,
+        "finish": 4,
+        "schema_display": 70,
+        "symbol": 354
+      },
+      "self_us": 838,
+      "total_us": 843
+    },
+    "MovieClip": {
+      "count": 78,
+      "phases": {
+        "allocation_statics": 863,
+        "body": 167,
+        "fields": 278,
+        "finish": 235,
+        "schema_display": 1352,
+        "symbol": 506
+      },
+      "self_us": 3401,
+      "total_us": 3617
+    },
+    "Point": {
+      "count": 73,
+      "phases": {
+        "finish": 1421
+      },
+      "self_us": 1421,
+      "total_us": 1702
+    },
+    "RDBuildingNew": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 1731,
+        "fields": 510,
+        "finish": 6,
+        "schema_display": 17,
+        "symbol": 9
+      },
+      "self_us": 2295,
+      "total_us": 4364
+    },
+    "RDCameraShake": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 58,
+        "body": 23,
+        "fields": 34,
+        "finish": 12,
+        "schema_display": 62,
+        "symbol": 12
+      },
+      "self_us": 201,
+      "total_us": 228
+    },
+    "RDCarDamagePoint": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 61,
+        "body": 1102,
+        "fields": 398,
+        "finish": 6,
+        "schema_display": 264,
+        "symbol": 17
+      },
+      "self_us": 1848,
+      "total_us": 2658
+    },
+    "RDEntityNode": {
+      "count": 38,
+      "phases": {
+        "allocation_statics": 507,
+        "body": 238,
+        "fields": 281,
+        "finish": 102,
+        "schema_display": 317,
+        "symbol": 128
+      },
+      "self_us": 1573,
+      "total_us": 1686
+    },
+    "RDEventBlood": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 23,
+        "body": 40,
+        "fields": 23,
+        "finish": 3,
+        "schema_display": 27,
+        "symbol": 4
+      },
+      "self_us": 120,
+      "total_us": 125
+    },
+    "RDGrassTop": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 47,
+        "body": 2943,
+        "fields": 493,
+        "finish": 8,
+        "schema_display": 317,
+        "symbol": 8
+      },
+      "self_us": 3816,
+      "total_us": 6028
+    },
+    "RDObstacleBarricade": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 59,
+        "body": 1893,
+        "fields": 445,
+        "finish": 6,
+        "schema_display": 430,
+        "symbol": 9
+      },
+      "self_us": 2842,
+      "total_us": 8471
+    },
+    "RDObstacleBody": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 1533,
+        "fields": 501,
+        "finish": 7,
+        "schema_display": 18,
+        "symbol": 8
+      },
+      "self_us": 2089,
+      "total_us": 4271
+    },
+    "RDObstacleBox": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 31,
+        "body": 1646,
+        "fields": 402,
+        "finish": 15,
+        "schema_display": 288,
+        "symbol": 7
+      },
+      "self_us": 2389,
+      "total_us": 4793
+    },
+    "RDObstacleBush1": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 23,
+        "body": 1690,
+        "fields": 403,
+        "finish": 6,
+        "schema_display": 18,
+        "symbol": 8
+      },
+      "self_us": 2148,
+      "total_us": 3833
+    },
+    "RDObstacleBush2": {
+      "count": 8,
+      "phases": {
+        "allocation_statics": 112,
+        "body": 6969,
+        "fields": 1866,
+        "finish": 24,
+        "schema_display": 335,
+        "symbol": 32
+      },
+      "self_us": 9338,
+      "total_us": 17633
+    },
+    "RDObstacleBush3": {
+      "count": 10,
+      "phases": {
+        "allocation_statics": 140,
+        "body": 8760,
+        "fields": 2202,
+        "finish": 32,
+        "schema_display": 393,
+        "symbol": 53
+      },
+      "self_us": 11580,
+      "total_us": 20863
+    },
+    "RDObstacleCarArmyTruck": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 162,
+        "body": 310,
+        "fields": 257,
+        "finish": 3,
+        "schema_display": 373,
+        "symbol": 3
+      },
+      "self_us": 1108,
+      "total_us": 1342
+    },
+    "RDObstacleCarMedium": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 13,
+        "body": 235,
+        "fields": 273,
+        "finish": 3,
+        "schema_display": 11,
+        "symbol": 5
+      },
+      "self_us": 540,
+      "total_us": 790
+    },
+    "RDObstacleCarMilitary": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 96,
+        "body": 335,
+        "fields": 283,
+        "finish": 3,
+        "schema_display": 391,
+        "symbol": 4
+      },
+      "self_us": 1112,
+      "total_us": 1365
+    },
+    "RDObstacleCarMilitaryDamaged": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 274,
+        "fields": 266,
+        "finish": 4,
+        "schema_display": 374,
+        "symbol": 5
+      },
+      "self_us": 945,
+      "total_us": 1188
+    },
+    "RDObstacleDeadTree": {
+      "count": 5,
+      "phases": {
+        "allocation_statics": 78,
+        "body": 4468,
+        "fields": 990,
+        "finish": 18,
+        "schema_display": 333,
+        "symbol": 29
+      },
+      "self_us": 5916,
+      "total_us": 21795
+    },
+    "RDObstacleElectronicSign": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 1124,
+        "fields": 197,
+        "finish": 3,
+        "schema_display": 260,
+        "symbol": 4
+      },
+      "self_us": 1610,
+      "total_us": 4648
+    },
+    "RDObstacleFence": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 43,
+        "body": 2134,
+        "fields": 435,
+        "finish": 7,
+        "schema_display": 304,
+        "symbol": 9
+      },
+      "self_us": 2932,
+      "total_us": 10362
+    },
+    "RDObstacleFlamingo": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 46,
+        "body": 1528,
+        "fields": 389,
+        "finish": 6,
+        "schema_display": 17,
+        "symbol": 8
+      },
+      "self_us": 1994,
+      "total_us": 3861
+    },
+    "RDObstacleMailBox": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 22,
+        "body": 1665,
+        "fields": 457,
+        "finish": 6,
+        "schema_display": 18,
+        "symbol": 8
+      },
+      "self_us": 2176,
+      "total_us": 4546
+    },
+    "RDObstacleMapleTree": {
+      "count": 9,
+      "phases": {
+        "allocation_statics": 100,
+        "body": 2635,
+        "fields": 1919,
+        "finish": 33,
+        "schema_display": 88,
+        "symbol": 37
+      },
+      "self_us": 4812,
+      "total_us": 9397
+    },
+    "RDObstaclePineTree": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 31,
+        "body": 2421,
+        "fields": 593,
+        "finish": 10,
+        "schema_display": 26,
+        "symbol": 12
+      },
+      "self_us": 3093,
+      "total_us": 7098
+    },
+    "RDObstacleSandBagsBloody": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 1034,
+        "fields": 209,
+        "finish": 3,
+        "schema_display": 304,
+        "symbol": 4
+      },
+      "self_us": 1587,
+      "total_us": 5869
+    },
+    "RDObstacleSmallHillTop": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 36,
+        "body": 1106,
+        "fields": 189,
+        "finish": 3,
+        "schema_display": 286,
+        "symbol": 4
+      },
+      "self_us": 1624,
+      "total_us": 3537
+    },
+    "RDObstacleTrafficCone": {
+      "count": 6,
+      "phases": {
+        "allocation_statics": 68,
+        "body": 4463,
+        "fields": 1210,
+        "finish": 18,
+        "schema_display": 57,
+        "symbol": 23
+      },
+      "self_us": 5839,
+      "total_us": 11404
+    },
+    "RDSpawnerInfo": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 52,
+        "body": 80,
+        "fields": 49,
+        "finish": 13,
+        "schema_display": 40,
+        "symbol": 17
+      },
+      "self_us": 251,
+      "total_us": 266
+    },
+    "RDYellowLine": {
+      "count": 4,
+      "phases": {
+        "allocation_statics": 69,
+        "body": 2883,
+        "fields": 779,
+        "finish": 12,
+        "schema_display": 37,
+        "symbol": 16
+      },
+      "self_us": 3796,
+      "total_us": 5311
+    },
+    "RDZombieNormalFemale": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 2331,
+        "fields": 1243,
+        "finish": 4,
+        "schema_display": 639,
+        "symbol": 4
+      },
+      "self_us": 4254,
+      "total_us": 27103
+    },
+    "RandomHat": {
+      "count": 2,
+      "phases": {
+        "finish": 29
+      },
+      "self_us": 29,
+      "total_us": 37
+    },
+    "Rectangle": {
+      "count": 150,
+      "phases": {
+        "finish": 3133
+      },
+      "self_us": 3133,
+      "total_us": 3749
+    },
+    "RoadOfTheDead_fla.ElectricRoadSignText_1427": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 26,
+        "body": 212,
+        "fields": 9,
+        "finish": 3,
+        "schema_display": 55,
+        "symbol": 622
+      },
+      "self_us": 927,
+      "total_us": 1045
+    },
+    "RoadOfTheDead_fla.church1door_1583": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 35,
+        "body": 9,
+        "fields": 11,
+        "finish": 4,
+        "schema_display": 63,
+        "symbol": 203
+      },
+      "self_us": 325,
+      "total_us": 329
+    },
+    "RoadOfTheDead_fla.largeexplosion_1058": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 38,
+        "body": 240,
+        "fields": 12,
+        "finish": 3,
+        "schema_display": 74,
+        "symbol": 498
+      },
+      "self_us": 865,
+      "total_us": 924
+    },
+    "SND_CarExplosion": {
+      "count": 12,
+      "phases": {
+        "allocation_statics": 135,
+        "body": 93,
+        "fields": 58,
+        "finish": 44,
+        "schema_display": 163,
+        "symbol": 47
+      },
+      "self_us": 540,
+      "total_us": 577
+    },
+    "SND_ClingerSlide": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 31,
+        "symbol": 3
+      },
+      "self_us": 63,
+      "total_us": 67
+    },
+    "SND_ConcreteDestroy": {
+      "count": 3,
+      "phases": {
+        "allocation_statics": 39,
+        "body": 22,
+        "fields": 13,
+        "finish": 10,
+        "schema_display": 71,
+        "symbol": 10
+      },
+      "self_us": 165,
+      "total_us": 184
+    },
+    "SND_DoorBashing": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 17,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 31,
+        "symbol": 3
+      },
+      "self_us": 64,
+      "total_us": 68
+    },
+    "SND_ElbowZombie": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 12,
+        "finish": 3,
+        "schema_display": 33,
+        "symbol": 12
+      },
+      "self_us": 82,
+      "total_us": 87
+    },
+    "SND_ElectronicSignHit": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 8,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 13,
+        "symbol": 3
+      },
+      "self_us": 42,
+      "total_us": 46
+    },
+    "SND_Explosion": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 9,
+        "body": 7,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 12,
+        "symbol": 3
+      },
+      "self_us": 38,
+      "total_us": 41
+    },
+    "SND_FeedersHit": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 154,
+        "body": 16,
+        "fields": 10,
+        "finish": 6,
+        "schema_display": 27,
+        "symbol": 6
+      },
+      "self_us": 219,
+      "total_us": 227
+    },
+    "SND_FenceHit": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 33,
+        "body": 15,
+        "fields": 8,
+        "finish": 7,
+        "schema_display": 54,
+        "symbol": 6
+      },
+      "self_us": 123,
+      "total_us": 130
+    },
+    "SND_FootStepDirt1": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 11,
+        "finish": 3,
+        "schema_display": 33,
+        "symbol": 3
+      },
+      "self_us": 72,
+      "total_us": 76
+    },
+    "SND_FootStepDirt2": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 15,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 41,
+        "symbol": 3
+      },
+      "self_us": 72,
+      "total_us": 85
+    },
+    "SND_FootStepDirt3": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 31,
+        "symbol": 3
+      },
+      "self_us": 63,
+      "total_us": 66
+    },
+    "SND_FootStepDirt4": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 15,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 31,
+        "symbol": 3
+      },
+      "self_us": 62,
+      "total_us": 65
+    },
+    "SND_FootStepPavement1": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 18,
+        "body": 6,
+        "fields": 3,
+        "finish": 3,
+        "schema_display": 36,
+        "symbol": 4
+      },
+      "self_us": 70,
+      "total_us": 74
+    },
+    "SND_FootStepPavement2": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 17,
+        "body": 7,
+        "fields": 4,
+        "finish": 2,
+        "schema_display": 33,
+        "symbol": 3
+      },
+      "self_us": 66,
+      "total_us": 71
+    },
+    "SND_FootStepPavement3": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 8,
+        "fields": 3,
+        "finish": 3,
+        "schema_display": 33,
+        "symbol": 3
+      },
+      "self_us": 66,
+      "total_us": 70
+    },
+    "SND_FootStepPavement4": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 32,
+        "symbol": 3
+      },
+      "self_us": 64,
+      "total_us": 68
+    },
+    "SND_GibHit": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 32,
+        "symbol": 3
+      },
+      "self_us": 64,
+      "total_us": 67
+    },
+    "SND_HeadshotHit": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 31,
+        "symbol": 3
+      },
+      "self_us": 63,
+      "total_us": 67
+    },
+    "SND_HitLeaves": {
+      "count": 21,
+      "phases": {
+        "allocation_statics": 235,
+        "body": 149,
+        "fields": 80,
+        "finish": 64,
+        "schema_display": 263,
+        "symbol": 71
+      },
+      "self_us": 862,
+      "total_us": 920
+    },
+    "SND_IdleCling": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 17,
+        "body": 15,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 33,
+        "symbol": 3
+      },
+      "self_us": 75,
+      "total_us": 79
+    },
+    "SND_MetalExplosion": {
+      "count": 12,
+      "phases": {
+        "allocation_statics": 129,
+        "body": 84,
+        "fields": 50,
+        "finish": 38,
+        "schema_display": 150,
+        "symbol": 48
+      },
+      "self_us": 499,
+      "total_us": 538
+    },
+    "SND_PunchHood": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 3,
+        "finish": 3,
+        "schema_display": 32,
+        "symbol": 3
+      },
+      "self_us": 63,
+      "total_us": 67
+    },
+    "SND_PunchZombie": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 6,
+        "fields": 3,
+        "finish": 3,
+        "schema_display": 33,
+        "symbol": 3
+      },
+      "self_us": 64,
+      "total_us": 68
+    },
+    "SND_RollOverSound": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 19,
+        "body": 6,
+        "fields": 4,
+        "finish": 3,
+        "schema_display": 36,
+        "symbol": 3
+      },
+      "self_us": 71,
+      "total_us": 76
+    },
+    "SND_ShoppingCartHit": {
+      "count": 2,
+      "phases": {
+        "allocation_statics": 23,
+        "body": 14,
+        "fields": 9,
+        "finish": 6,
+        "schema_display": 26,
+        "symbol": 7
+      },
+      "self_us": 85,
+      "total_us": 92
+    },
+    "SND_SideGrinding": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 16,
+        "body": 7,
+        "fields": 4,
+        "finish": 11,
+        "schema_display": 31,
+        "symbol": 3
+      },
+      "self_us": 72,
+      "total_us": 77
+    },
+    "SND_TableBreak": {
+      "count": 17,
+      "phases": {
+        "allocation_statics": 183,
+        "body": 126,
+        "fields": 82,
+        "finish": 52,
+        "schema_display": 228,
+        "symbol": 54
+      },
+      "self_us": 725,
+      "total_us": 772
+    },
+    "SND_TrafficConeHit": {
+      "count": 10,
+      "phases": {
+        "allocation_statics": 105,
+        "body": 72,
+        "fields": 41,
+        "finish": 30,
+        "schema_display": 136,
+        "symbol": 31
+      },
+      "self_us": 415,
+      "total_us": 445
+    },
+    "SND_WaterJugCollision": {
+      "count": 1,
+      "phases": {
+        "allocation_statics": 11,
+        "body": 8,
+        "fields": 5,
+        "finish": 3,
+        "schema_display": 13,
+        "symbol": 3
+      },
+      "self_us": 43,
+      "total_us": 47
+    },
+    "SoundTransform": {
+      "count": 136,
+      "phases": {
+        "finish": 2476
+      },
+      "self_us": 2476,
+      "total_us": 3035
+    },
+    "Vector3D": {
+      "count": 1809,
+      "phases": {
+        "finish": 37902
+      },
+      "self_us": 37902,
+      "total_us": 46131
+    },
+    "symbol:1079": {
+      "count": 5,
+      "phases": {
+        "finish": 19,
+        "leaf_allocation": 110,
+        "leaf_symbol": 4418
+      },
+      "self_us": 4547,
+      "total_us": 4567
+    },
+    "symbol:1386": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 194
+      },
+      "self_us": 218,
+      "total_us": 222
+    },
+    "symbol:1389": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 183
+      },
+      "self_us": 207,
+      "total_us": 211
+    },
+    "symbol:1392": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 244
+      },
+      "self_us": 268,
+      "total_us": 272
+    },
+    "symbol:1395": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 179
+      },
+      "self_us": 203,
+      "total_us": 207
+    },
+    "symbol:1398": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 20,
+        "leaf_symbol": 184
+      },
+      "self_us": 207,
+      "total_us": 211
+    },
+    "symbol:1401": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 175
+      },
+      "self_us": 199,
+      "total_us": 203
+    },
+    "symbol:1404": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 180
+      },
+      "self_us": 204,
+      "total_us": 208
+    },
+    "symbol:1407": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 175
+      },
+      "self_us": 199,
+      "total_us": 203
+    },
+    "symbol:1410": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 20,
+        "leaf_symbol": 183
+      },
+      "self_us": 206,
+      "total_us": 219
+    },
+    "symbol:1413": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 20,
+        "leaf_symbol": 176
+      },
+      "self_us": 199,
+      "total_us": 203
+    },
+    "symbol:1605": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 20,
+        "leaf_symbol": 18
+      },
+      "self_us": 41,
+      "total_us": 46
+    },
+    "symbol:1615": {
+      "count": 6,
+      "phases": {
+        "finish": 23,
+        "leaf_allocation": 134,
+        "leaf_symbol": 6362
+      },
+      "self_us": 6519,
+      "total_us": 6543
+    },
+    "symbol:1750": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 198
+      },
+      "self_us": 222,
+      "total_us": 227
+    },
+    "symbol:1767": {
+      "count": 7,
+      "phases": {
+        "finish": 30,
+        "leaf_allocation": 273,
+        "leaf_symbol": 292
+      },
+      "self_us": 595,
+      "total_us": 622
+    },
+    "symbol:1901": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 23,
+        "leaf_symbol": 797
+      },
+      "self_us": 824,
+      "total_us": 833
+    },
+    "symbol:1915": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 20
+      },
+      "self_us": 44,
+      "total_us": 49
+    },
+    "symbol:1926": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 30,
+        "leaf_symbol": 28
+      },
+      "self_us": 62,
+      "total_us": 66
+    },
+    "symbol:1929": {
+      "count": 1,
+      "phases": {
+        "finish": 5,
+        "leaf_allocation": 21,
+        "leaf_symbol": 17
+      },
+      "self_us": 43,
+      "total_us": 48
+    },
+    "symbol:1941": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 27,
+        "leaf_symbol": 24
+      },
+      "self_us": 54,
+      "total_us": 59
+    },
+    "symbol:1965": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 22,
+        "leaf_symbol": 20
+      },
+      "self_us": 46,
+      "total_us": 51
+    },
+    "symbol:2065": {
+      "count": 1,
+      "phases": {
+        "finish": 8,
+        "leaf_allocation": 28,
+        "leaf_symbol": 1244
+      },
+      "self_us": 1280,
+      "total_us": 1290
+    },
+    "symbol:2068": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 65,
+        "leaf_symbol": 887
+      },
+      "self_us": 956,
+      "total_us": 962
+    },
+    "symbol:211": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 46,
+        "leaf_symbol": 81
+      },
+      "self_us": 133,
+      "total_us": 140
+    },
+    "symbol:2161": {
+      "count": 20,
+      "phases": {
+        "finish": 71,
+        "leaf_allocation": 457,
+        "leaf_symbol": 600
+      },
+      "self_us": 1128,
+      "total_us": 1192
+    },
+    "symbol:2211": {
+      "count": 72,
+      "phases": {
+        "finish": 406,
+        "leaf_allocation": 3013,
+        "leaf_symbol": 3528
+      },
+      "self_us": 6947,
+      "total_us": 7312
+    },
+    "symbol:2224": {
+      "count": 73,
+      "phases": {
+        "finish": 429,
+        "leaf_allocation": 2875,
+        "leaf_symbol": 3430
+      },
+      "self_us": 6734,
+      "total_us": 7097
+    },
+    "symbol:2227": {
+      "count": 73,
+      "phases": {
+        "finish": 398,
+        "leaf_allocation": 2983,
+        "leaf_symbol": 3438
+      },
+      "self_us": 6819,
+      "total_us": 7175
+    },
+    "symbol:2230": {
+      "count": 72,
+      "phases": {
+        "finish": 380,
+        "leaf_allocation": 3060,
+        "leaf_symbol": 3373
+      },
+      "self_us": 6813,
+      "total_us": 7167
+    },
+    "symbol:2267": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 24,
+        "leaf_symbol": 1191
+      },
+      "self_us": 1219,
+      "total_us": 1224
+    },
+    "symbol:2270": {
+      "count": 1,
+      "phases": {
+        "finish": 5,
+        "leaf_allocation": 31,
+        "leaf_symbol": 1335
+      },
+      "self_us": 1371,
+      "total_us": 1376
+    },
+    "symbol:238": {
+      "count": 18,
+      "phases": {
+        "finish": 58,
+        "leaf_allocation": 526,
+        "leaf_symbol": 797
+      },
+      "self_us": 1381,
+      "total_us": 1436
+    },
+    "symbol:246": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 40,
+        "leaf_symbol": 32
+      },
+      "self_us": 78,
+      "total_us": 85
+    },
+    "symbol:248": {
+      "count": 2,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 40,
+        "leaf_symbol": 59
+      },
+      "self_us": 106,
+      "total_us": 112
+    },
+    "symbol:250": {
+      "count": 3,
+      "phases": {
+        "finish": 10,
+        "leaf_allocation": 70,
+        "leaf_symbol": 119
+      },
+      "self_us": 199,
+      "total_us": 209
+    },
+    "symbol:264": {
+      "count": 2,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 40,
+        "leaf_symbol": 31
+      },
+      "self_us": 75,
+      "total_us": 82
+    },
+    "symbol:266": {
+      "count": 4,
+      "phases": {
+        "finish": 20,
+        "leaf_allocation": 81,
+        "leaf_symbol": 121
+      },
+      "self_us": 222,
+      "total_us": 235
+    },
+    "symbol:280": {
+      "count": 2,
+      "phases": {
+        "finish": 9,
+        "leaf_allocation": 63,
+        "leaf_symbol": 106
+      },
+      "self_us": 178,
+      "total_us": 198
+    },
+    "symbol:295": {
+      "count": 7,
+      "phases": {
+        "finish": 21,
+        "leaf_allocation": 179,
+        "leaf_symbol": 312
+      },
+      "self_us": 512,
+      "total_us": 534
+    },
+    "symbol:303": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 32,
+        "leaf_symbol": 1429
+      },
+      "self_us": 1465,
+      "total_us": 1469
+    },
+    "symbol:304": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 109,
+        "leaf_symbol": 85
+      },
+      "self_us": 197,
+      "total_us": 202
+    },
+    "symbol:307": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 22,
+        "leaf_symbol": 1416
+      },
+      "self_us": 1442,
+      "total_us": 1448
+    },
+    "symbol:310": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 23,
+        "leaf_symbol": 1895
+      },
+      "self_us": 1922,
+      "total_us": 1928
+    },
+    "symbol:344": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 16
+      },
+      "self_us": 40,
+      "total_us": 44
+    },
+    "symbol:346": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 30
+      },
+      "self_us": 54,
+      "total_us": 58
+    },
+    "symbol:359": {
+      "count": 1,
+      "phases": {
+        "finish": 5,
+        "leaf_allocation": 20,
+        "leaf_symbol": 1037
+      },
+      "self_us": 1062,
+      "total_us": 1068
+    },
+    "symbol:375": {
+      "count": 3,
+      "phases": {
+        "finish": 9,
+        "leaf_allocation": 67,
+        "leaf_symbol": 59
+      },
+      "self_us": 135,
+      "total_us": 146
+    },
+    "symbol:377": {
+      "count": 3,
+      "phases": {
+        "finish": 10,
+        "leaf_allocation": 65,
+        "leaf_symbol": 89
+      },
+      "self_us": 164,
+      "total_us": 175
+    },
+    "symbol:3961": {
+      "count": 1,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 19,
+        "leaf_symbol": 28
+      },
+      "self_us": 54,
+      "total_us": 58
+    },
+    "symbol:3963": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 23,
+        "leaf_symbol": 16
+      },
+      "self_us": 43,
+      "total_us": 48
+    },
+    "symbol:4039": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 20,
+        "leaf_symbol": 42
+      },
+      "self_us": 65,
+      "total_us": 69
+    },
+    "symbol:4076": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 42
+      },
+      "self_us": 66,
+      "total_us": 70
+    },
+    "symbol:4107": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 19,
+        "leaf_symbol": 16
+      },
+      "self_us": 38,
+      "total_us": 43
+    },
+    "symbol:4109": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 40,
+        "leaf_symbol": 57
+      },
+      "self_us": 103,
+      "total_us": 110
+    },
+    "symbol:4123": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 20,
+        "leaf_symbol": 17
+      },
+      "self_us": 41,
+      "total_us": 45
+    },
+    "symbol:4203": {
+      "count": 14,
+      "phases": {
+        "finish": 54,
+        "leaf_allocation": 426,
+        "leaf_symbol": 273
+      },
+      "self_us": 753,
+      "total_us": 800
+    },
+    "symbol:4273": {
+      "count": 5,
+      "phases": {
+        "finish": 23,
+        "leaf_allocation": 197,
+        "leaf_symbol": 3903
+      },
+      "self_us": 4123,
+      "total_us": 4142
+    },
+    "symbol:428": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 35
+      },
+      "self_us": 59,
+      "total_us": 63
+    },
+    "symbol:4286": {
+      "count": 6,
+      "phases": {
+        "finish": 25,
+        "leaf_allocation": 144,
+        "leaf_symbol": 4044
+      },
+      "self_us": 4213,
+      "total_us": 4238
+    },
+    "symbol:437": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 46,
+        "leaf_symbol": 34
+      },
+      "self_us": 86,
+      "total_us": 93
+    },
+    "symbol:438": {
+      "count": 9,
+      "phases": {
+        "finish": 29,
+        "leaf_allocation": 203,
+        "leaf_symbol": 270
+      },
+      "self_us": 502,
+      "total_us": 530
+    },
+    "symbol:444": {
+      "count": 6,
+      "phases": {
+        "finish": 18,
+        "leaf_allocation": 130,
+        "leaf_symbol": 101
+      },
+      "self_us": 249,
+      "total_us": 269
+    },
+    "symbol:4513": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 24,
+        "leaf_symbol": 20
+      },
+      "self_us": 47,
+      "total_us": 52
+    },
+    "symbol:4516": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 23,
+        "leaf_symbol": 20
+      },
+      "self_us": 46,
+      "total_us": 51
+    },
+    "symbol:4519": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 24,
+        "leaf_symbol": 18
+      },
+      "self_us": 45,
+      "total_us": 49
+    },
+    "symbol:4528": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 25,
+        "leaf_symbol": 21
+      },
+      "self_us": 49,
+      "total_us": 53
+    },
+    "symbol:453": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 22,
+        "leaf_symbol": 33
+      },
+      "self_us": 58,
+      "total_us": 63
+    },
+    "symbol:4534": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 22,
+        "leaf_symbol": 16
+      },
+      "self_us": 41,
+      "total_us": 46
+    },
+    "symbol:455": {
+      "count": 2,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 44,
+        "leaf_symbol": 62
+      },
+      "self_us": 113,
+      "total_us": 120
+    },
+    "symbol:530": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 22,
+        "leaf_symbol": 1186
+      },
+      "self_us": 1212,
+      "total_us": 1217
+    },
+    "symbol:532": {
+      "count": 1,
+      "phases": {
+        "finish": 18,
+        "leaf_allocation": 25,
+        "leaf_symbol": 653
+      },
+      "self_us": 696,
+      "total_us": 702
+    },
+    "symbol:5324": {
+      "count": 10,
+      "phases": {
+        "finish": 33,
+        "leaf_allocation": 244,
+        "leaf_symbol": 323
+      },
+      "self_us": 600,
+      "total_us": 634
+    },
+    "symbol:5328": {
+      "count": 8,
+      "phases": {
+        "finish": 26,
+        "leaf_allocation": 192,
+        "leaf_symbol": 249
+      },
+      "self_us": 467,
+      "total_us": 493
+    },
+    "symbol:5330": {
+      "count": 10,
+      "phases": {
+        "finish": 33,
+        "leaf_allocation": 232,
+        "leaf_symbol": 594
+      },
+      "self_us": 859,
+      "total_us": 893
+    },
+    "symbol:5394": {
+      "count": 3,
+      "phases": {
+        "finish": 9,
+        "leaf_allocation": 126,
+        "leaf_symbol": 91
+      },
+      "self_us": 226,
+      "total_us": 246
+    },
+    "symbol:5404": {
+      "count": 3,
+      "phases": {
+        "finish": 9,
+        "leaf_allocation": 99,
+        "leaf_symbol": 92
+      },
+      "self_us": 200,
+      "total_us": 210
+    },
+    "symbol:5445": {
+      "count": 2,
+      "phases": {
+        "finish": 5,
+        "leaf_allocation": 44,
+        "leaf_symbol": 32
+      },
+      "self_us": 81,
+      "total_us": 89
+    },
+    "symbol:5446": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 64,
+        "leaf_symbol": 68
+      },
+      "self_us": 138,
+      "total_us": 146
+    },
+    "symbol:5518": {
+      "count": 14,
+      "phases": {
+        "finish": 50,
+        "leaf_allocation": 387,
+        "leaf_symbol": 267
+      },
+      "self_us": 704,
+      "total_us": 759
+    },
+    "symbol:559": {
+      "count": 2,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 59,
+        "leaf_symbol": 94
+      },
+      "self_us": 160,
+      "total_us": 172
+    },
+    "symbol:5600": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 26,
+        "leaf_symbol": 63
+      },
+      "self_us": 92,
+      "total_us": 99
+    },
+    "symbol:5602": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 24,
+        "leaf_symbol": 67
+      },
+      "self_us": 95,
+      "total_us": 108
+    },
+    "symbol:5604": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 30,
+        "leaf_symbol": 765
+      },
+      "self_us": 799,
+      "total_us": 804
+    },
+    "symbol:567": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 24,
+        "leaf_symbol": 31
+      },
+      "self_us": 58,
+      "total_us": 63
+    },
+    "symbol:570": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 21,
+        "leaf_symbol": 79
+      },
+      "self_us": 103,
+      "total_us": 107
+    },
+    "symbol:573": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 32,
+        "leaf_symbol": 29
+      },
+      "self_us": 64,
+      "total_us": 68
+    },
+    "symbol:578": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 22,
+        "leaf_symbol": 28
+      },
+      "self_us": 53,
+      "total_us": 57
+    },
+    "symbol:5820": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 82,
+        "leaf_symbol": 44
+      },
+      "self_us": 129,
+      "total_us": 134
+    },
+    "symbol:609": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 247,
+        "leaf_symbol": 222
+      },
+      "self_us": 473,
+      "total_us": 477
+    },
+    "symbol:615": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 130,
+        "leaf_symbol": 34
+      },
+      "self_us": 167,
+      "total_us": 171
+    },
+    "symbol:621": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 25,
+        "leaf_symbol": 33
+      },
+      "self_us": 61,
+      "total_us": 65
+    },
+    "symbol:683": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 22,
+        "leaf_symbol": 39
+      },
+      "self_us": 64,
+      "total_us": 68
+    },
+    "symbol:686": {
+      "count": 2,
+      "phases": {
+        "finish": 5,
+        "leaf_allocation": 51,
+        "leaf_symbol": 43
+      },
+      "self_us": 99,
+      "total_us": 107
+    },
+    "symbol:697": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 47,
+        "leaf_symbol": 65
+      },
+      "self_us": 118,
+      "total_us": 126
+    },
+    "symbol:7426": {
+      "count": 2,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 58,
+        "leaf_symbol": 76
+      },
+      "self_us": 141,
+      "total_us": 149
+    },
+    "symbol:7429": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 54,
+        "leaf_symbol": 91
+      },
+      "self_us": 151,
+      "total_us": 167
+    },
+    "symbol:7432": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 159,
+        "leaf_symbol": 66
+      },
+      "self_us": 231,
+      "total_us": 239
+    },
+    "symbol:7435": {
+      "count": 2,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 45,
+        "leaf_symbol": 61
+      },
+      "self_us": 113,
+      "total_us": 121
+    },
+    "symbol:7438": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 45,
+        "leaf_symbol": 61
+      },
+      "self_us": 112,
+      "total_us": 120
+    },
+    "symbol:770": {
+      "count": 1,
+      "phases": {
+        "finish": 3,
+        "leaf_allocation": 24,
+        "leaf_symbol": 18
+      },
+      "self_us": 45,
+      "total_us": 50
+    },
+    "symbol:777": {
+      "count": 2,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 52,
+        "leaf_symbol": 110
+      },
+      "self_us": 169,
+      "total_us": 177
+    },
+    "symbol:780": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 46,
+        "leaf_symbol": 86
+      },
+      "self_us": 138,
+      "total_us": 146
+    },
+    "symbol:822": {
+      "count": 8,
+      "phases": {
+        "finish": 25,
+        "leaf_allocation": 175,
+        "leaf_symbol": 1448
+      },
+      "self_us": 1648,
+      "total_us": 1674
+    },
+    "symbol:8455": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 28,
+        "leaf_symbol": 331
+      },
+      "self_us": 363,
+      "total_us": 367
+    },
+    "symbol:8514": {
+      "count": 972,
+      "phases": {
+        "finish": 3234,
+        "leaf_allocation": 23101,
+        "leaf_symbol": 28999
+      },
+      "self_us": 55334,
+      "total_us": 58237
+    },
+    "symbol:8517": {
+      "count": 972,
+      "phases": {
+        "finish": 3176,
+        "leaf_allocation": 21958,
+        "leaf_symbol": 28713
+      },
+      "self_us": 53847,
+      "total_us": 56712
+    },
+    "symbol:8519": {
+      "count": 54,
+      "phases": {
+        "finish": 192,
+        "leaf_allocation": 1454,
+        "leaf_symbol": 1846
+      },
+      "self_us": 3492,
+      "total_us": 3693
+    },
+    "symbol:8521": {
+      "count": 54,
+      "phases": {
+        "finish": 188,
+        "leaf_allocation": 1461,
+        "leaf_symbol": 1968
+      },
+      "self_us": 3617,
+      "total_us": 3806
+    },
+    "symbol:862": {
+      "count": 3,
+      "phases": {
+        "finish": 10,
+        "leaf_allocation": 65,
+        "leaf_symbol": 99
+      },
+      "self_us": 174,
+      "total_us": 184
+    },
+    "symbol:865": {
+      "count": 3,
+      "phases": {
+        "finish": 9,
+        "leaf_allocation": 61,
+        "leaf_symbol": 94
+      },
+      "self_us": 164,
+      "total_us": 175
+    },
+    "symbol:869": {
+      "count": 1,
+      "phases": {
+        "finish": 4,
+        "leaf_allocation": 24,
+        "leaf_symbol": 56
+      },
+      "self_us": 84,
+      "total_us": 89
+    },
+    "symbol:874": {
+      "count": 10,
+      "phases": {
+        "finish": 33,
+        "leaf_allocation": 286,
+        "leaf_symbol": 450
+      },
+      "self_us": 769,
+      "total_us": 800
+    },
+    "symbol:878": {
+      "count": 3,
+      "phases": {
+        "finish": 9,
+        "leaf_allocation": 64,
+        "leaf_symbol": 97
+      },
+      "self_us": 170,
+      "total_us": 180
+    },
+    "symbol:896": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 38,
+        "leaf_symbol": 68
+      },
+      "self_us": 112,
+      "total_us": 119
+    },
+    "symbol:921": {
+      "count": 2,
+      "phases": {
+        "finish": 7,
+        "leaf_allocation": 47,
+        "leaf_symbol": 68
+      },
+      "self_us": 122,
+      "total_us": 130
+    },
+    "symbol:946": {
+      "count": 2,
+      "phases": {
+        "finish": 6,
+        "leaf_allocation": 45,
+        "leaf_symbol": 60
+      },
+      "self_us": 111,
+      "total_us": 118
+    }
+  },
+  "section_load_hitches": [
+    {
+      "elapsed": 11.7,
+      "kind": "method",
+      "ms": 340.092,
+      "name": "RDLevelPatternCustomNew.Load"
+    },
+    {
+      "elapsed": 18.1000000000001,
+      "kind": "method",
+      "ms": 281.737,
+      "name": "RDLevelPatternCustomNew.Load"
+    }
+  ],
+  "validation_suites": [
+    "source_bundle_suite",
+    "semantics_suite",
+    "native_performance_suite",
+    "road_surface_suite",
+    "spatial_audio_suite",
+    "runtime_regression_suite",
+    "batch_suite",
+    "initializers_suite",
+    "value_construction_suite",
+    "text_suite",
+    "collections_suite",
+    "sound_construction_suite",
+    "basic_construction_suite",
+    "snapshot_suite",
+    "interface_suite",
+    "persistence_suite",
+    "modes_suite",
+    "weapons_suite",
+    "gameplay_suite",
+    "depth_suite",
+    "placement_suite",
+    "collision_suite",
+    "pattern_data_suite",
+    "spawning_suite",
+    "pattern_suite"
+  ],
+  "original_translated_script_hashes_verified": 2774,
+  "source_bundle_classes": 501,
+  "source_bundle_functions": 4674,
+  "bundle_function_set_unchanged": true,
+  "pattern_snapshots_identical": true,
+  "gpu_snapshot_comparison_cases": 12,
+  "pause_interface_integration_passed": true
+}

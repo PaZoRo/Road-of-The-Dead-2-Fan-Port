@@ -1,0 +1,8 @@
+WARNING: The separate rendering thread feature is experimental. Feel free to try it since it will eventually become a stable feature.
+However, bear in mind that at the moment it can lead to project crashes or instability.
+So, unless you want to test the engine, set the "rendering/driver/threads/thread_model" project setting to 'Safe'.
+   at: setup2 (main/main.cpp:3518)
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+ERROR: FATAL: Index p_index = 0 is out of bounds (size() = 0).
+   at: get (./core/templates/cowdata.h:197)

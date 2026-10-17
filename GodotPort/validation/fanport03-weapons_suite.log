@@ -1,0 +1,19 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=58 classes=2774
+TEST_WEAPON_FIRED m_WeaponPistolCocheta
+TEST_WEAPON_FIRED m_WeaponPistolDiane
+TEST_WEAPON_FIRED m_WeaponMAC11
+TEST_WEAPON_FIRED m_WeaponSPAS12
+TEST_WEAPON_FIRED m_WeaponMP5
+TEST_WEAPON_FIRED m_WeaponShotgun
+TEST_WEAPON_FIRED m_WeaponM16
+TEST_WEAPON_FIRED m_WeaponM60
+TEST_WEAPON_FIRED m_WeaponRocketLauncher
+TEST_WEAPON_FIRED m_WeaponMountedMG
+TEST_WEAPON_FIRED m_CustomWeaponRocketLauncher
+TEST_WEAPON_FIRED m_CustomWeaponMountedMG
+TEST_WEAPONS_COMPLETE failures=[] warnings={  }

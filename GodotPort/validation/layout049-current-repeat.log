@@ -1,0 +1,18 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=55 classes=2774
+PERFORMANCE_START state=1 entities=4 frame=381
+PERFORMANCE_INIT tick=0 state=1 entities=237 frame=382 paused=false
+PERFORMANCE_PROGRESS tick=0 position=0.0
+PERFORMANCE_INIT tick=1 state=1 entities=237 frame=383 paused=false
+PERFORMANCE_INIT tick=2 state=1 entities=237 frame=384 paused=false
+PERFORMANCE_INIT tick=3 state=1 entities=237 frame=385 paused=false
+PERFORMANCE_INIT tick=4 state=1 entities=237 frame=386 paused=false
+PERFORMANCE_PROGRESS tick=120 position=0.15035704887827
+PERFORMANCE_PAUSE {"gpu_ms":0.0,"gpu_snapshots":0,"ms":859.627,"world_transform":"[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)]"}
+PERFORMANCE_PROGRESS tick=240 position=0.24546803932641
+PERFORMANCE_PROGRESS tick=360 position=0.29823005256976
+PERFORMANCE_RESULT {"after":{"memory":732922048.0,"nodes":1910.0,"orphans":3361.0},"before":{"memory":719505222.0,"nodes":1850.0,"orphans":3361.0},"deferred_visual_frames":35978,"entity_classes":{"RDBloodSpill":9,"RDBuildingNew":19,"RDObstacleBody":2,"RDObstacleBush3":25,"RDObstacleCar":14,"RDObstacleCarLarge":2,"RDObstacleCarMedium":7,"RDObstacleConstructionSign":2,"RDObstacleDeadTree":1,"RDObstacleDumpster":8,"RDObstacleElectronicSign":1,"RDObstacleFireHydrant":3,"RDObstacleMailBox":18,"RDObstacleMapleTree":5,"RDObstaclePineTree":2,"RDObstacleShoppingCart":3,"RDObstacleSmallHillTop":3,"RDObstacleTrafficCone":7,"RDObstacleTrafficLight":4,"RDObstacleTrashCan":24,"RDObstacleWeaponCrate":1,"RDParallaxBackground":2,"RDPassingCar":1,"RDPlayer":1,"RDRoad":1,"RDRoadSlice":18,"RDWhiteLine":28,"RDYellowLine":26},"gpu_pause_snapshot_ms":0.0,"gpu_pause_snapshots":0,"graphical":false,"mean_update_ms":19.801525,"p95_update_ms":27.671,"phase_mean_ms":{"animation_us":3.75556666666667,"effects_us":0.318441666666667,"gameplay_us":15.177925,"pointer_us":0.535611111111111,"render_us":0.00588055555555556},"position":0.350552382369419,"recycled_shapes":3794,"ticks":360,"wall_fps":39.3013443679863,"warnings":{}}

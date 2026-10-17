@@ -1,0 +1,16 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.5.2.260413 - Compatibility - Using Device: ATI Technologies Inc. - Radeon RX550/550 Series
+
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=55 classes=2774
+PERFORMANCE_START state=1 entities=4 frame=381
+PERFORMANCE_INIT tick=0 state=1 entities=204 frame=382 paused=false
+PERFORMANCE_PROGRESS tick=0 position=0.0
+PERFORMANCE_INIT tick=1 state=1 entities=204 frame=383 paused=false
+PERFORMANCE_INIT tick=2 state=1 entities=204 frame=384 paused=false
+PERFORMANCE_INIT tick=3 state=1 entities=204 frame=385 paused=false
+PERFORMANCE_INIT tick=4 state=1 entities=204 frame=386 paused=false
+PERFORMANCE_PROGRESS tick=120 position=29.0231295326387
+PERFORMANCE_PROGRESS tick=240 position=80.4452136076425
+PERFORMANCE_PROGRESS tick=360 position=104.855209424571
+PERFORMANCE_RESULT {"after":{"memory":1242132048.0,"nodes":2695.0,"orphans":14490.0},"before":{"memory":1204079650.0,"nodes":2514.0,"orphans":14217.0},"graphical":true,"mean_update_ms":41.4825805555556,"p95_update_ms":49.559,"phase_mean_ms":{"animation_us":8.70364722222222,"effects_us":0.134394444444444,"gameplay_us":29.6103611111111,"pointer_us":3.01316666666667,"render_us":0.00837222222222222},"position":104.889387470613,"recycled_shapes":14402,"ticks":360,"wall_fps":14.2539370561977,"warnings":{}}

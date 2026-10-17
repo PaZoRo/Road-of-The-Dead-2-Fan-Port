@@ -1,0 +1,125 @@
+{
+  "collision_scan_microseconds": {
+    "density_10": {
+      "previous": 443.848333333333,
+      "updated": 330.853333333333
+    },
+    "density_25": {
+      "previous": 639.8,
+      "updated": 416.62
+    },
+    "density_80": {
+      "previous": 1187.66083333333,
+      "updated": 673.355833333333
+    }
+  },
+  "placement_reference_symbols": 100,
+  "placement_reference_cases": 900,
+  "collision_reference_cases": 800,
+  "compiled_placements": true,
+  "typed_nested_model_receivers": 324,
+  "native_pattern_methods": 10,
+  "depth_reference_cases": 640,
+  "pattern_predicate_cases": 10164,
+  "pattern_load_reference_cases": 24,
+  "pattern_snapshot_sha256": "d0ca1fc3aea9a54f7f219e649f364b9e6de185668fc2301a094d1da006292638",
+  "version": "0.4.4",
+  "engine": "Godot 4.7.2 Stable release",
+  "platform": "Windows x86_64",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "84a3c60288b07728cbb12eeb98b2f6f24feedced0b1113c27d7efceb34ab9cc1",
+  "logical_size": [
+    600,
+    400
+  ],
+  "framebuffer_size": [
+    1200,
+    800
+  ],
+  "startup_ms": 6333,
+  "loading_visible_engine_ms": 1212,
+  "benchmark": {
+    "animation_ms": 3.14618981481481,
+    "draw_calls": 139.0,
+    "game_ms": 16.7338587962963,
+    "memory": null,
+    "physics_ms": 20.4281087962963,
+    "rendered_fps": 56.5024742433471,
+    "seconds": 15.043589,
+    "simulation_hz": 28.7165516154423,
+    "texture_memory": 341521865.0
+  },
+  "frame_pacing": {
+    "engine_physics_hz": 28.7165516154423,
+    "frames": {
+      "over_20ms_percent": 50.2944640753828,
+      "p50_ms": 20.314,
+      "p95_ms": 37.424,
+      "p99_ms": 42.509,
+      "samples": 849,
+      "worst_ms": 410.948
+    },
+    "max_steps": 2,
+    "measured_updates_hz": 28.7165516154423,
+    "physics_ticks_per_second": 30,
+    "time_scale": 1.0
+  },
+  "previous_0_4_3_executable_control": {
+    "benchmark": {
+      "animation_ms": 3.07884064665127,
+      "draw_calls": 134.0,
+      "game_ms": 15.9652263279446,
+      "memory": null,
+      "physics_ms": 19.5512979214781,
+      "rendered_fps": 57.110108555854,
+      "seconds": 15.0061,
+      "simulation_hz": 28.8549323275201,
+      "texture_memory": 341026173.0
+    },
+    "pacing": {
+      "engine_physics_hz": 28.8549323275201,
+      "frames": {
+        "over_20ms_percent": 48.8317757009346,
+        "p50_ms": 19.692,
+        "p95_ms": 38.09,
+        "p99_ms": 43.098,
+        "samples": 856,
+        "worst_ms": 375.402
+      },
+      "max_steps": 2,
+      "measured_updates_hz": 28.8549323275201,
+      "physics_ticks_per_second": 30,
+      "time_scale": 1.0
+    },
+    "startup_ms": 6392,
+    "visible_ms": 1261,
+    "completion": "BINARY_GAMEPLAY_COMPLETE position=187.398801081948 warnings={  }"
+  },
+  "source_bundle_classes": 501,
+  "source_bundle_functions": 4674,
+  "target_fps": 60,
+  "steady_60_fps_achieved": false,
+  "validation_suites": [
+    "source_bundle_suite",
+    "semantics_suite",
+    "native_performance_suite",
+    "road_surface_suite",
+    "spatial_audio_suite",
+    "runtime_regression_suite",
+    "batch_suite",
+    "initializers_suite",
+    "interface_suite",
+    "persistence_suite",
+    "modes_suite",
+    "weapons_suite",
+    "gameplay_suite",
+    "depth_suite",
+    "placement_suite",
+    "collision_suite",
+    "pattern_suite"
+  ],
+  "original_translated_script_hashes_verified": 2774,
+  "gameplay": "BINARY_GAMEPLAY_COMPLETE position=195.840851174018 warnings={  }",
+  "save_location_changed": false
+}

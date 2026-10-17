@@ -1,0 +1,305 @@
+{
+  "reference": [
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeStory",
+      "ms": 410.859,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeStory",
+      "ms": 359.118,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeStory",
+      "ms": 404.804,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeStory",
+      "ms": 561.24,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeStory",
+      "ms": 424.146,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeStory",
+      "ms": 445.491,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeSandbox",
+      "ms": 224.415,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeSandbox",
+      "ms": 225.952,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeSandbox",
+      "ms": 436.611,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeSandbox",
+      "ms": 653.057,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeSandbox",
+      "ms": 321.841,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeSandbox",
+      "ms": 358.459,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeMilitary",
+      "ms": 214.326,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeMilitary",
+      "ms": 232.235,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeMilitary",
+      "ms": 278.7,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeMilitary",
+      "ms": 310.12,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeMilitary",
+      "ms": 282.714,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeMilitary",
+      "ms": 296.25,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 214.114,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 220.68,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 254.12,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 268.048,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 272.992,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 319.722,
+      "seed": 331
+    }
+  ],
+  "native": [
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeStory",
+      "ms": 372.574,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeStory",
+      "ms": 315.912,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeStory",
+      "ms": 366.533,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeStory",
+      "ms": 363.882,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeStory",
+      "ms": 389.54,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeStory",
+      "ms": 384.062,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeSandbox",
+      "ms": 217.997,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeSandbox",
+      "ms": 224.36,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeSandbox",
+      "ms": 381.91,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeSandbox",
+      "ms": 377.112,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeSandbox",
+      "ms": 314.858,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeSandbox",
+      "ms": 345.021,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeMilitary",
+      "ms": 206.778,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeMilitary",
+      "ms": 216.751,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeMilitary",
+      "ms": 268.861,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeMilitary",
+      "ms": 385.124,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeMilitary",
+      "ms": 311.924,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeMilitary",
+      "ms": 298.273,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 207.516,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential1",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 213.153,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 249.693,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_Residential34checkpoint",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 262.453,
+      "seed": 331
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 265.569,
+      "seed": 21
+    },
+    {
+      "definition": "MC_LevelPattern_LG_ResidentialChurch3",
+      "mode": "m_GameModeChopperRescue",
+      "ms": 297.34,
+      "seed": 331
+    }
+  ],
+  "summary": {
+    "reference": {
+      "sum_ms": 7990.014,
+      "median_ms": 303.185
+    },
+    "native": {
+      "sum_ms": 7237.196,
+      "median_ms": 305.0985
+    },
+    "reduction_percent": 9.421985994017035
+  }
+}

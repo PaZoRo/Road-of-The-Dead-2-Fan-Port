@@ -1,0 +1,606 @@
+{
+  "version": "0.4.13",
+  "engine": "Godot 4.7.2 Stable release",
+  "platform": "Windows x86_64",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "7e553481fe7f3660f913d4a85eb39ff2c38f35ee410ff76d430927a8e5fcd1d8",
+  "logical_size": [
+    600,
+    400
+  ],
+  "framebuffer_size": [
+    1200,
+    800
+  ],
+  "render_cap": 240,
+  "simulation_hz": 30,
+  "save_location_changed": false,
+  "target_fps": 60,
+  "steady_60_fps_achieved": false,
+  "runs": {
+    "release053-control": {
+      "startup_ms": 3442,
+      "benchmark": {
+        "animation_ms": 2.75129612756264,
+        "draw_calls": 131.0,
+        "game_ms": 15.3256332574032,
+        "gpu_pause_snapshot_ms": 43.315,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.5933940774487,
+        "rendered_fps": 142.121451429961,
+        "seconds": 15.029399,
+        "simulation_hz": 29.2094181543786,
+        "text_cache_entries": 120,
+        "texture_memory": 281782817.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.2094181543786,
+        "frames": {
+          "over_20ms_percent": 20.0468384074941,
+          "p50_ms": 2.6,
+          "p95_ms": 23.644,
+          "p99_ms": 29.549,
+          "samples": 2135,
+          "worst_ms": 277.711
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.2094181543786,
+        "physics_ticks_per_second": 30,
+        "render_cap": 240,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.71395615083 warnings={  }"
+    },
+    "release053": {
+      "startup_ms": 3467,
+      "benchmark": {
+        "animation_ms": 2.78816018306636,
+        "draw_calls": 139.0,
+        "game_ms": 14.7732059496568,
+        "gpu_pause_snapshot_ms": 42.318,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.0778306636156,
+        "rendered_fps": 146.325835391878,
+        "seconds": 15.041773,
+        "simulation_hz": 29.0524262000231,
+        "text_cache_entries": 120,
+        "texture_memory": 285973049.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.0524262000231,
+        "frames": {
+          "over_20ms_percent": 18.5454545454545,
+          "p50_ms": 2.683,
+          "p95_ms": 22.842,
+          "p99_ms": 28.637,
+          "samples": 2200,
+          "worst_ms": 346.889
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.0524262000231,
+        "physics_ticks_per_second": 30,
+        "render_cap": 240,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.174073907135 warnings={  }",
+      "source_status": {
+        "background": {
+          "blocking_wait_ms": 0.0,
+          "blocking_waits": 0,
+          "elapsed_ms": 5128,
+          "loaded_groups": [
+            "startup",
+            "actors",
+            "game",
+            "interface",
+            "utilities"
+          ]
+        },
+        "blocking_wait_ms": 0.0,
+        "blocking_waits": 0,
+        "loaded_groups": [
+          "startup",
+          "actors",
+          "game",
+          "interface",
+          "utilities"
+        ],
+        "pending_groups": []
+      }
+    },
+    "release053-reference": {
+      "startup_ms": 3429,
+      "benchmark": {
+        "animation_ms": 2.74865068493151,
+        "draw_calls": 131.0,
+        "game_ms": 25.8513789954338,
+        "gpu_pause_snapshot_ms": 41.977,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 29.1154178082192,
+        "rendered_fps": 52.7552265261528,
+        "seconds": 15.031686,
+        "simulation_hz": 29.1384479425661,
+        "text_cache_entries": 120,
+        "texture_memory": 284706821.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.1384479425661,
+        "frames": {
+          "over_20ms_percent": 53.5353535353535,
+          "p50_ms": 28.925,
+          "p95_ms": 37.408,
+          "p99_ms": 61.584,
+          "samples": 792,
+          "worst_ms": 314.98
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.1384479425661,
+        "physics_ticks_per_second": 30,
+        "render_cap": 240,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=189.600471974624 warnings={  }",
+      "source_status": {
+        "background": {
+          "blocking_wait_ms": 0.0,
+          "blocking_waits": 0,
+          "elapsed_ms": 5491,
+          "loaded_groups": [
+            "startup",
+            "actors",
+            "game",
+            "interface",
+            "utilities"
+          ]
+        },
+        "blocking_wait_ms": 0.0,
+        "blocking_waits": 0,
+        "loaded_groups": [
+          "startup",
+          "actors",
+          "game",
+          "interface",
+          "utilities"
+        ],
+        "pending_groups": []
+      }
+    },
+    "release053-repeat": {
+      "startup_ms": 3507,
+      "benchmark": {
+        "animation_ms": 2.7728291571754,
+        "draw_calls": 130.0,
+        "game_ms": 14.3204965831435,
+        "gpu_pause_snapshot_ms": 41.883,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 17.6135216400911,
+        "rendered_fps": 149.438680106478,
+        "seconds": 15.029576,
+        "simulation_hz": 29.2090741615066,
+        "text_cache_entries": 120,
+        "texture_memory": 281782817.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.2090741615066,
+        "frames": {
+          "over_20ms_percent": 17.8173719376392,
+          "p50_ms": 2.677,
+          "p95_ms": 22.515,
+          "p99_ms": 28.421,
+          "samples": 2245,
+          "worst_ms": 288.815
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.2090741615066,
+        "physics_ticks_per_second": 30,
+        "render_cap": 240,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.802363464446 warnings={  }",
+      "source_status": {
+        "background": {
+          "blocking_wait_ms": 0.0,
+          "blocking_waits": 0,
+          "elapsed_ms": 5123,
+          "loaded_groups": [
+            "startup",
+            "actors",
+            "game",
+            "interface",
+            "utilities"
+          ]
+        },
+        "blocking_wait_ms": 0.0,
+        "blocking_waits": 0,
+        "loaded_groups": [
+          "startup",
+          "actors",
+          "game",
+          "interface",
+          "utilities"
+        ],
+        "pending_groups": []
+      }
+    },
+    "release053-control-repeat": {
+      "startup_ms": 3436,
+      "benchmark": {
+        "animation_ms": 2.75607972665148,
+        "draw_calls": 129.0,
+        "game_ms": 15.3267448747153,
+        "gpu_pause_snapshot_ms": 41.756,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.6025193621868,
+        "rendered_fps": 142.118472779988,
+        "seconds": 15.029714,
+        "simulation_hz": 29.2088059692952,
+        "text_cache_entries": 120,
+        "texture_memory": 281782817.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.2088059692952,
+        "frames": {
+          "over_20ms_percent": 20.0936768149883,
+          "p50_ms": 2.574,
+          "p95_ms": 23.618,
+          "p99_ms": 29.398,
+          "samples": 2135,
+          "worst_ms": 276.803
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.2088059692952,
+        "physics_ticks_per_second": 30,
+        "render_cap": 240,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.793200919042 warnings={  }"
+    },
+    "release053-60": {
+      "startup_ms": 3630,
+      "benchmark": {
+        "animation_ms": 2.73104555808656,
+        "draw_calls": 130.0,
+        "game_ms": 14.2605170842825,
+        "gpu_pause_snapshot_ms": 41.244,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 17.502,
+        "rendered_fps": 57.9379632750475,
+        "seconds": 15.033321,
+        "simulation_hz": 29.2017977930492,
+        "text_cache_entries": 120,
+        "texture_memory": 281782817.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.2017977930492,
+        "frames": {
+          "over_20ms_percent": 40.3448275862069,
+          "p50_ms": 16.982,
+          "p95_ms": 35.735,
+          "p99_ms": 40.261,
+          "samples": 870,
+          "worst_ms": 284.514
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.2017977930492,
+        "physics_ticks_per_second": 30,
+        "render_cap": 60,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.819142109964 warnings={  }",
+      "source_status": {
+        "background": {
+          "blocking_wait_ms": 0.0,
+          "blocking_waits": 0,
+          "elapsed_ms": 5181,
+          "loaded_groups": [
+            "startup",
+            "actors",
+            "game",
+            "interface",
+            "utilities"
+          ]
+        },
+        "blocking_wait_ms": 0.0,
+        "blocking_waits": 0,
+        "loaded_groups": [
+          "startup",
+          "actors",
+          "game",
+          "interface",
+          "utilities"
+        ],
+        "pending_groups": []
+      }
+    },
+    "release053-profile": {
+      "startup_ms": 3449,
+      "benchmark": {
+        "animation_ms": 2.89200688073394,
+        "draw_calls": 140.0,
+        "game_ms": 15.3684426605505,
+        "gpu_pause_snapshot_ms": 41.858,
+        "gpu_pause_snapshots": 1,
+        "memory": 0.0,
+        "physics_ms": 18.7855298165138,
+        "rendered_fps": 141.319521705412,
+        "seconds": 15.001466,
+        "simulation_hz": 29.0638261620564,
+        "text_cache_entries": 120,
+        "texture_memory": 285973049.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.0638261620564,
+        "frames": {
+          "over_20ms_percent": 20.1510146295422,
+          "p50_ms": 2.611,
+          "p95_ms": 23.536,
+          "p99_ms": 29.825,
+          "samples": 2119,
+          "worst_ms": 349.029
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.0638261620564,
+        "physics_ticks_per_second": 30,
+        "render_cap": 240,
+        "time_scale": 1.0
+      },
+      "player": {
+        "fail_type": -1,
+        "failed": false,
+        "hp": null,
+        "interior_alpha": 1.0,
+        "interior_frame": 1,
+        "interior_visible": true
+      },
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=196.91936506694 warnings={  }",
+      "source_status": {
+        "background": {
+          "blocking_wait_ms": 0.0,
+          "blocking_waits": 0,
+          "elapsed_ms": 5238,
+          "loaded_groups": [
+            "startup",
+            "actors",
+            "game",
+            "interface",
+            "utilities"
+          ]
+        },
+        "blocking_wait_ms": 0.0,
+        "blocking_waits": 0,
+        "loaded_groups": [
+          "startup",
+          "actors",
+          "game",
+          "interface",
+          "utilities"
+        ],
+        "pending_groups": []
+      }
+    }
+  },
+  "world_loop_microbenchmark": {
+    "entities": 240,
+    "samples_ms": [
+      [
+        2.66196,
+        2.59078,
+        2.56644,
+        2.55909,
+        2.5888,
+        2.56152
+      ],
+      [
+        1.93578,
+        1.93088,
+        1.97902,
+        1.93539,
+        1.97646,
+        1.94106
+      ]
+    ],
+    "warnings": {}
+  },
+  "road_renderer_microbenchmark": {
+    "cases": [
+      {
+        "kind": "Town",
+        "samples_ms": [
+          [
+            1.9852,
+            1.96052,
+            1.95626,
+            1.96153,
+            1.96006,
+            2.03229
+          ],
+          [
+            1.51601,
+            1.50268,
+            1.5,
+            1.51678,
+            1.51227,
+            1.52054
+          ]
+        ]
+      },
+      {
+        "kind": "Highway",
+        "samples_ms": [
+          [
+            1.60743,
+            1.55529,
+            1.5487,
+            1.55973,
+            1.55709,
+            1.55943
+          ],
+          [
+            1.20937,
+            1.19849,
+            1.21105,
+            1.20405,
+            1.19673,
+            1.19959
+          ]
+        ]
+      },
+      {
+        "kind": "Alleyway",
+        "samples_ms": [
+          [
+            1.60231,
+            1.61365,
+            1.61269,
+            1.60377,
+            1.75633,
+            1.60787
+          ],
+          [
+            1.26265,
+            1.24225,
+            1.25164,
+            1.25157,
+            1.24367,
+            1.24904
+          ]
+        ]
+      },
+      {
+        "kind": "Mixed",
+        "samples_ms": [
+          [
+            1.70691,
+            1.76913,
+            1.72065,
+            1.71031,
+            1.7276,
+            1.78656
+          ],
+          [
+            1.36869,
+            1.41771,
+            1.3744,
+            1.36695,
+            1.38813,
+            1.37803
+          ]
+        ]
+      }
+    ],
+    "warnings": {}
+  },
+  "startup_functions": 812,
+  "section_load_hitches": [
+    {
+      "elapsed": 11.7,
+      "kind": "method",
+      "ms": 320.73,
+      "name": "RDLevelPatternCustomNew.Load"
+    },
+    {
+      "elapsed": 18.1000000000001,
+      "kind": "method",
+      "ms": 261.375,
+      "name": "RDLevelPatternCustomNew.Load"
+    }
+  ],
+  "validation_suites": [
+    "source_bundle_suite",
+    "source_prefetch_suite",
+    "semantics_suite",
+    "native_performance_suite",
+    "world_update_suite",
+    "road_renderer_suite",
+    "road_surface_suite",
+    "spatial_audio_suite",
+    "runtime_regression_suite",
+    "batch_suite",
+    "initializers_suite",
+    "value_construction_suite",
+    "text_suite",
+    "collections_suite",
+    "sound_construction_suite",
+    "basic_construction_suite",
+    "entity_construction_suite",
+    "builtin_construction_suite",
+    "snapshot_suite",
+    "interface_suite",
+    "persistence_suite",
+    "modes_suite",
+    "weapons_suite",
+    "gameplay_suite",
+    "depth_suite",
+    "placement_suite",
+    "collision_suite",
+    "pattern_data_suite",
+    "spawning_suite",
+    "pattern_suite"
+  ],
+  "original_translated_script_hashes_verified": 2774,
+  "source_bundle_classes": 501,
+  "source_bundle_functions": 4674,
+  "bundle_function_set_unchanged": true,
+  "native_helper_bodies_verified": 20,
+  "pattern_snapshots_identical": true,
+  "gpu_snapshot_comparison_cases": 12,
+  "pause_interface_integration_passed": true,
+  "world_update_scenarios": 76,
+  "behavior_scope_cache_cases": 8,
+  "road_renderer_full_comparisons": 348
+}

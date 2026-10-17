@@ -1,0 +1,78 @@
+{
+  "reference": {
+    "result": {
+      "after": {
+        "memory": 700495125.0,
+        "nodes": 1777.0,
+        "orphans": 3505.0
+      },
+      "before": {
+        "memory": 680582452.0,
+        "nodes": 1801.0,
+        "orphans": 3362.0
+      },
+      "deferred_visual_frames": 35435,
+      "gpu_pause_snapshot_ms": 0.0,
+      "gpu_pause_snapshots": 0,
+      "graphical": true,
+      "mean_update_ms": 21.0828388888889,
+      "p95_update_ms": 29.188,
+      "phase_mean_ms": {
+        "animation_us": 3.93369444444444,
+        "effects_us": 0.293769444444444,
+        "gameplay_us": 16.3088472222222,
+        "pointer_us": 0.530233333333333,
+        "render_us": 0.00602777777777778
+      },
+      "position": 58.0241862361453,
+      "recycled_shapes": 3794,
+      "ticks": 360,
+      "wall_fps": 35.1477548151204,
+      "warnings": {}
+    },
+    "pause": {
+      "gpu_ms": 0.0,
+      "gpu_snapshots": 0,
+      "ms": 900.458,
+      "world_transform": "[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)]"
+    }
+  },
+  "native": {
+    "result": {
+      "after": {
+        "memory": 680259015.0,
+        "nodes": 1628.0,
+        "orphans": 3486.0
+      },
+      "before": {
+        "memory": 664100320.0,
+        "nodes": 1754.0,
+        "orphans": 3362.0
+      },
+      "deferred_visual_frames": 36385,
+      "gpu_pause_snapshot_ms": 159.255,
+      "gpu_pause_snapshots": 2,
+      "graphical": true,
+      "mean_update_ms": 20.6042527777778,
+      "p95_update_ms": 28.556,
+      "phase_mean_ms": {
+        "animation_us": 3.43528611111111,
+        "effects_us": 0.301319444444444,
+        "gameplay_us": 16.3198027777778,
+        "pointer_us": 0.532111111111111,
+        "render_us": 0.00586666666666667
+      },
+      "position": 58.7527187499073,
+      "recycled_shapes": 1994,
+      "ticks": 360,
+      "wall_fps": 39.609681794521,
+      "warnings": {}
+    },
+    "pause": {
+      "gpu_ms": 159.255,
+      "gpu_snapshots": 2,
+      "ms": 41.32,
+      "world_transform": "[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)]"
+    }
+  }
+}

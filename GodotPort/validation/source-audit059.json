@@ -1,0 +1,22 @@
+{
+  "version": "0.4.19",
+  "original_hashes_verified": 2774,
+  "reference_bundle_functions_verified": 4674,
+  "previous_native_bodies_preserved_except_documented_changes": true,
+  "changes": "Native fan reticle; unchanged full weapon and clinger source bodies use prefetched bundles; three full-source presentation lifecycle wrappers; static-prop inactive-branch dispatch elision; pure road scratch writes at loop completion; GPU-compressed vector art with original logical bounds.",
+  "unchanged_complete_streaming_bodies": true,
+  "new_presentation_overrides": 589,
+  "existing_menu_overrides": 22,
+  "presentation_atlases": 10,
+  "changed_baseline_files": [
+    "project.godot",
+    "data/native_hotpaths.json",
+    "data/source_map.json",
+    "data/visual_overrides.json",
+    "runtime/as_runtime.gd",
+    "runtime/main.gd",
+    "runtime/native_hotpaths.gd",
+    "runtime/native_road.gd",
+    "tests/visual_fixes_suite.gd"
+  ]
+}

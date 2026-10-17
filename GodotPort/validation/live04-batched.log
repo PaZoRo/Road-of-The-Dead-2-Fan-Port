@@ -1,0 +1,8 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.5.2.260413 - Compatibility - Using Device: ATI Technologies Inc. - Radeon RX550/550 Series
+
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=55 classes=2774
+LIVE_PLAYBACK_RESULT {"invalid_transforms":[],"p95_frame_ms":41.616,"position":50.9652738211768,"rendered_frames":355,"seconds":7.159249,"simulation_hz":29.8914034139614,"wall_fps":49.5862065979267,"warnings":{}}
+MASK_CPU us=24016 regenerations=11
+LIVE_RENDER_MONITORS {"batched_instances":3652,"draw_calls":150.0,"memory":727511699.0,"nodes":1699.0,"objects":314.0,"physics_ms":33.78,"process_ms":3.32,"texture_memory":348444975.0,"video_memory":354858519.0}

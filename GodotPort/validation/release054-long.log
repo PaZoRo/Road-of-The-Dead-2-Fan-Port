@@ -1,0 +1,50 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.5.2.260413 - Compatibility - Using Device: ATI Technologies Inc. - Radeon RX550/550 Series
+
+BOOT_LOADING_VISIBLE ms=1209
+STARTUP_PHASE {"ms":1375.943,"name":"threaded_source_bundles"}
+BOOT_SCRIPT_PRESENTATION {"drawn_frames":4397,"loaded_groups":["startup"],"waits":4397,"worst_wait_ms":33.912}
+STARTUP_PHASE {"ms":920.689,"name":"runtime_initialize"}
+[Newgrounds API] :: Ad destroyed.
+STARTUP_PHASE {"ms":286.281,"name":"root_construct"}
+STARTUP_PHASE {"ms":6.014,"name":"game_construct"}
+STARTUP_PHASE {"ms":15.99,"name":"bootstrap_0"}
+STARTUP_PHASE {"ms":3.915,"name":"bootstrap_1"}
+STARTUP_PHASE {"ms":0.498,"name":"bootstrap_2"}
+STARTUP_PHASE {"ms":0.623,"name":"bootstrap_3"}
+STARTUP_PHASE {"ms":9.095,"name":"bootstrap_4"}
+STARTUP_PHASE {"ms":199.743,"name":"bootstrap_5"}
+STARTUP_PHASE {"ms":8.517,"name":"bootstrap_6"}
+STARTUP_PHASE {"ms":11.749,"name":"bootstrap_7"}
+STARTUP_PHASE {"ms":430.092,"name":"bootstrap_8"}
+STARTUP_PHASE {"ms":6.418,"name":"bootstrap_9"}
+STARTUP_PHASE {"ms":9.41,"name":"bootstrap_10"}
+STARTUP_PHASE {"ms":0.113,"name":"bootstrap_11"}
+STARTUP_PHASE {"ms":0.445,"name":"bootstrap_12"}
+STARTUP_PHASE {"ms":1.359,"name":"bootstrap_13"}
+STARTUP_PHASE {"ms":0.984,"name":"bootstrap_14"}
+STARTUP_PHASE {"ms":1.073,"name":"bootstrap_15"}
+STARTUP_PHASE {"ms":4.318,"name":"bootstrap_16"}
+STARTUP_PHASE {"ms":7.709,"name":"bootstrap_17"}
+STARTUP_PHASE {"ms":146.94,"name":"bootstrap_18"}
+STARTUP_PHASE {"ms":1.216,"name":"bootstrap_19"}
+STARTUP_PHASE {"ms":1.094,"name":"bootstrap_20"}
+STARTUP_PHASE {"ms":1.326,"name":"bootstrap_21"}
+STARTUP_PHASE {"ms":1.043,"name":"bootstrap_22"}
+STARTUP_PHASE {"ms":0.783,"name":"bootstrap_23"}
+STARTUP_PHASE {"ms":0.1,"name":"bootstrap_24"}
+STARTUP_PHASE {"ms":0.376,"name":"bootstrap_25"}
+STARTUP_PHASE {"ms":0.949,"name":"bootstrap_26"}
+STARTUP_PHASE {"ms":1.08,"name":"bootstrap_27"}
+STARTUP_PHASE {"ms":0.101,"name":"bootstrap_28"}
+STARTUP_PHASE {"ms":28.251,"name":"game_start"}
+PORT_BOOT frame=55 classes=2774 ready_ms=3690
+BACKGROUND_SOURCE_READY {"blocking_wait_ms":0.0,"blocking_waits":0,"elapsed_ms":5252,"loaded_groups":["startup","actors","game","interface","utilities"]}
+BINARY_BENCHMARK {"animation_ms":3.19388832199547,"draw_calls":205.0,"game_ms":17.0128752834467,"gpu_pause_snapshot_ms":41.447,"gpu_pause_snapshots":1,"memory":0.0,"off_phase_animation_ms":3.08601757369615,"physics_ms":17.865141723356,"rendered_fps":146.079751944748,"seconds":60.001471,"simulation_hz":29.3992792276709,"text_cache_entries":122,"texture_memory":336152617.0,"total_step_cpu_ms":20.9511592970522}
+BINARY_SOURCE_STATUS {"background":{"blocking_wait_ms":0.0,"blocking_waits":0,"elapsed_ms":5252,"loaded_groups":["startup","actors","game","interface","utilities"]},"blocking_wait_ms":0.0,"blocking_waits":0,"loaded_groups":["startup","actors","game","interface","utilities"],"pending_groups":[]}
+BINARY_FRAME_PACING {"engine_physics_hz":29.3992792276709,"frames":{"over_20ms_percent":10.1780009128252,"p50_ms":2.576,"p95_ms":22.167,"p99_ms":31.434,"samples":8764,"worst_ms":334.177},"max_steps":2,"measured_updates_hz":29.3992792276709,"physics_ticks_per_second":30,"render_cap":0,"time_scale":1.0}
+BINARY_DRAW_PACING {"over_20ms_percent":10.1780009128252,"p50_ms":2.849,"p95_ms":21.746,"p99_ms":27.036,"samples":8764,"worst_ms":334.623}
+BINARY_ANIMATION_SCHEDULING {"enabled":true,"inline_steps":57,"prepared_steps":1707,"total_steps":1764}
+BINARY_PROGRESS [{"failed":false,"position":10.094405359114,"seconds":0.000007},{"failed":false,"position":62.721154438956,"seconds":4.998712},{"failed":false,"position":131.39260019985,"seconds":10.19917},{"failed":false,"position":201.171075893122,"seconds":15.400399},{"failed":false,"position":259.741068440846,"seconds":20.671652},{"failed":false,"position":329.267727821572,"seconds":25.666608},{"failed":false,"position":402.667146623389,"seconds":30.837122},{"failed":false,"position":456.241224547645,"seconds":36.001498},{"failed":false,"position":512.276479284398,"seconds":41.004181},{"failed":true,"position":523.281320733567,"seconds":46.202587},{"failed":true,"position":523.281320733567,"seconds":51.200711},{"failed":true,"position":523.281320733567,"seconds":56.199923}]
+BINARY_PLAYER_STATE {"fail_type":1,"failed":true,"hp":null,"interior_alpha":1.0,"interior_frame":1,"interior_visible":true}
+BINARY_GAMEPLAY_COMPLETE position=523.281320733567 warnings={  }

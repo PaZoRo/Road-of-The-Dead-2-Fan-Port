@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+CATALOG_RESULT {"base_timings":[{"cache_us":1066,"json_us":588,"keys":19,"name":"native_hotpaths"},{"cache_us":34513,"json_us":82070,"keys":2,"name":"source_bundles"},{"cache_us":53806,"json_us":116354,"keys":2774,"name":"classes"},{"cache_us":33652,"json_us":52943,"keys":3,"name":"native_initializers"},{"cache_us":55488,"json_us":99340,"keys":4,"name":"assets"},{"cache_us":28717,"json_us":41235,"keys":4355,"name":"texture_atlas"}],"failures":[],"invalid_cases":8,"total_catalogs":3934}

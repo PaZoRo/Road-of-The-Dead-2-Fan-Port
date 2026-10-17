@@ -1,0 +1,31 @@
+{
+  "version": "0.4.18",
+  "original_hashes_verified": 2774,
+  "reference_bundle_functions_verified": 4674,
+  "canonical_native_helper_bodies_verified": 20,
+  "all_previous_native_bodies_preserved": true,
+  "complete_async_bodies_preserved": true,
+  "intentional_story_change": "start a complete section beyond the camera visibility range; publish its visual entities together",
+  "changed_baseline_files": [
+    "addons/raw_assets_export/export_plugin.gd",
+    "data/cache/native_hotpaths.bin",
+    "data/native_hotpaths.json",
+    "data/source_map.json",
+    "export_presets.cfg",
+    "project.godot",
+    "runtime/as_runtime.gd",
+    "runtime/boot.gd",
+    "runtime/display.gd",
+    "runtime/main.gd",
+    "runtime/native_hotpaths.gd",
+    "runtime/native_projection.gd",
+    "runtime/native_snapshot.gd",
+    "runtime/native_spawning.gd",
+    "runtime/native_streaming.gd",
+    "runtime/section_scheduler.gd",
+    "Validate.ps1"
+  ],
+  "hood_geometry_masks": 100,
+  "menu_vector_parts": 22,
+  "pattern_parity_cases": 24
+}

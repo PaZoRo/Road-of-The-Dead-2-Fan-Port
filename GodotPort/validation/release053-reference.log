@@ -1,0 +1,47 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.5.2.260413 - Compatibility - Using Device: ATI Technologies Inc. - Radeon RX550/550 Series
+
+BOOT_LOADING_VISIBLE ms=1190
+STARTUP_PHASE {"ms":1133.265,"name":"threaded_source_bundles"}
+BOOT_SCRIPT_PRESENTATION {"drawn_frames":267,"loaded_groups":["startup"],"waits":267,"worst_wait_ms":29.681}
+STARTUP_PHASE {"ms":923.232,"name":"runtime_initialize"}
+[Newgrounds API] :: Ad destroyed.
+STARTUP_PHASE {"ms":275.288,"name":"root_construct"}
+STARTUP_PHASE {"ms":5.605,"name":"game_construct"}
+STARTUP_PHASE {"ms":14.977,"name":"bootstrap_0"}
+STARTUP_PHASE {"ms":3.674,"name":"bootstrap_1"}
+STARTUP_PHASE {"ms":0.549,"name":"bootstrap_2"}
+STARTUP_PHASE {"ms":0.492,"name":"bootstrap_3"}
+STARTUP_PHASE {"ms":8.832,"name":"bootstrap_4"}
+STARTUP_PHASE {"ms":190.709,"name":"bootstrap_5"}
+STARTUP_PHASE {"ms":8.059,"name":"bootstrap_6"}
+STARTUP_PHASE {"ms":11.495,"name":"bootstrap_7"}
+STARTUP_PHASE {"ms":420.218,"name":"bootstrap_8"}
+STARTUP_PHASE {"ms":6.292,"name":"bootstrap_9"}
+STARTUP_PHASE {"ms":8.915,"name":"bootstrap_10"}
+STARTUP_PHASE {"ms":0.119,"name":"bootstrap_11"}
+STARTUP_PHASE {"ms":0.363,"name":"bootstrap_12"}
+STARTUP_PHASE {"ms":1.083,"name":"bootstrap_13"}
+STARTUP_PHASE {"ms":1.118,"name":"bootstrap_14"}
+STARTUP_PHASE {"ms":1.083,"name":"bootstrap_15"}
+STARTUP_PHASE {"ms":4.734,"name":"bootstrap_16"}
+STARTUP_PHASE {"ms":7.315,"name":"bootstrap_17"}
+STARTUP_PHASE {"ms":141.869,"name":"bootstrap_18"}
+STARTUP_PHASE {"ms":1.152,"name":"bootstrap_19"}
+STARTUP_PHASE {"ms":1.079,"name":"bootstrap_20"}
+STARTUP_PHASE {"ms":1.35,"name":"bootstrap_21"}
+STARTUP_PHASE {"ms":0.889,"name":"bootstrap_22"}
+STARTUP_PHASE {"ms":0.732,"name":"bootstrap_23"}
+STARTUP_PHASE {"ms":0.08,"name":"bootstrap_24"}
+STARTUP_PHASE {"ms":0.352,"name":"bootstrap_25"}
+STARTUP_PHASE {"ms":0.917,"name":"bootstrap_26"}
+STARTUP_PHASE {"ms":1.073,"name":"bootstrap_27"}
+STARTUP_PHASE {"ms":0.116,"name":"bootstrap_28"}
+STARTUP_PHASE {"ms":26.682,"name":"game_start"}
+PORT_BOOT frame=55 classes=2774 ready_ms=3429
+BACKGROUND_SOURCE_READY {"blocking_wait_ms":0.0,"blocking_waits":0,"elapsed_ms":5491,"loaded_groups":["startup","actors","game","interface","utilities"]}
+BINARY_BENCHMARK {"animation_ms":2.74865068493151,"draw_calls":131.0,"game_ms":25.8513789954338,"gpu_pause_snapshot_ms":41.977,"gpu_pause_snapshots":1,"memory":0.0,"physics_ms":29.1154178082192,"rendered_fps":52.7552265261528,"seconds":15.031686,"simulation_hz":29.1384479425661,"text_cache_entries":120,"texture_memory":284706821.0}
+BINARY_SOURCE_STATUS {"background":{"blocking_wait_ms":0.0,"blocking_waits":0,"elapsed_ms":5491,"loaded_groups":["startup","actors","game","interface","utilities"]},"blocking_wait_ms":0.0,"blocking_waits":0,"loaded_groups":["startup","actors","game","interface","utilities"],"pending_groups":[]}
+BINARY_FRAME_PACING {"engine_physics_hz":29.1384479425661,"frames":{"over_20ms_percent":53.5353535353535,"p50_ms":28.925,"p95_ms":37.408,"p99_ms":61.584,"samples":792,"worst_ms":314.98},"max_steps":2,"measured_updates_hz":29.1384479425661,"physics_ticks_per_second":30,"render_cap":240,"time_scale":1.0}
+BINARY_PLAYER_STATE {"fail_type":-1,"failed":false,"hp":null,"interior_alpha":1.0,"interior_frame":1,"interior_visible":true}
+BINARY_GAMEPLAY_COMPLETE position=189.600471974624 warnings={  }

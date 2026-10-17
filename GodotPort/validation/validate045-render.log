@@ -1,0 +1,7 @@
+native_performance_suite passed
+runtime_regression_suite passed
+interface_suite passed
+persistence_suite passed
+modes_suite passed
+weapons_suite passed
+gameplay_suite passed

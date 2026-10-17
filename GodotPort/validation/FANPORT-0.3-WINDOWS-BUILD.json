@@ -1,0 +1,92 @@
+{
+  "version": "0.3.0",
+  "platform": "Windows x86_64",
+  "engine": "Godot 4.7.2 Stable release",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "05b9f690501680e89e20f25c5fbcdc89648dd3dd2b5ad65885fca45e9a08c64a",
+  "validation": {
+    "gameplay": "BINARY_GAMEPLAY_COMPLETE position=1.09520943231515 warnings={  }",
+    "source_suites_passed": [
+      "compile_all",
+      "semantics_suite",
+      "native_performance_suite",
+      "runtime_regression_suite",
+      "interface_suite",
+      "persistence_suite",
+      "modes_suite",
+      "weapons_suite",
+      "gameplay_suite"
+    ],
+    "script_and_shader_errors": [],
+    "projection_cases": 224,
+    "road_surface_cases": 56,
+    "vehicle_cases": 30,
+    "obstacle_car_cases": 16,
+    "building_cases": 18,
+    "inkscape_cases": 67,
+    "corrected_svg_rasters": [
+      "shapes/6.png",
+      "shapes/8.png"
+    ]
+  },
+  "rendered_fixture": {
+    "gpu": "Radeon RX 550",
+    "backend": "OpenGL 3.3 Compatibility",
+    "baseline_version": "0.2",
+    "baseline_resolution": [
+      1200,
+      800
+    ],
+    "current_resolution": [
+      600,
+      400
+    ],
+    "baseline_fps": 14.2539370561977,
+    "baseline_mean_cpu_ms": 41.4825805555556,
+    "current": {
+      "after": {
+        "memory": 940505883.0,
+        "nodes": 2822.0,
+        "orphans": 14363.0
+      },
+      "before": {
+        "memory": 905202164.0,
+        "nodes": 2523.0,
+        "orphans": 14213.0
+      },
+      "deferred_visual_frames": 24074,
+      "graphical": true,
+      "mean_update_ms": 33.0286333333333,
+      "p95_update_ms": 40.294,
+      "phase_mean_ms": {
+        "animation_us": 7.70475555555556,
+        "effects_us": 0.265297222222222,
+        "gameplay_us": 24.5714388888889,
+        "pointer_us": 0.464719444444444,
+        "render_us": 0.00847222222222222
+      },
+      "position": 87.0741875754303,
+      "recycled_shapes": 3238,
+      "ticks": 360,
+      "wall_fps": 19.5630633279184,
+      "warnings": {}
+    },
+    "manual_tick_per_rendered_frame": true
+  },
+  "actual_fixed_clock_live_playback": {
+    "invalid_transforms": [],
+    "p95_frame_ms": 98.298,
+    "position": 54.2109857886517,
+    "rendered_frames": 103,
+    "seconds": 8.373019,
+    "simulation_hz": 24.6028344137282,
+    "wall_fps": 12.3014172068641,
+    "warnings": {}
+  },
+  "limits": [
+    "60 FPS not achieved; heavy scenes still lag",
+    "Remaining compatibility systems need migration",
+    "Full playthrough and Flash filter parity not established"
+  ]
+}

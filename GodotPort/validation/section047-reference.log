@@ -1,0 +1,55 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=55 classes=2774
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeStory","ms":410.859,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeStory definition=MC_LevelPattern_LG_Residential1 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeStory","ms":359.118,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeStory definition=MC_LevelPattern_LG_Residential1 seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeStory","ms":404.804,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeStory definition=MC_LevelPattern_LG_Residential34checkpoint seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeStory","ms":561.24,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeStory definition=MC_LevelPattern_LG_Residential34checkpoint seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeStory","ms":424.146,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeStory definition=MC_LevelPattern_LG_ResidentialChurch3 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeStory","ms":445.491,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeStory definition=MC_LevelPattern_LG_ResidentialChurch3 seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeSandbox","ms":224.415,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeSandbox definition=MC_LevelPattern_LG_Residential1 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeSandbox","ms":225.952,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeSandbox definition=MC_LevelPattern_LG_Residential1 seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeSandbox","ms":436.611,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeSandbox definition=MC_LevelPattern_LG_Residential34checkpoint seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeSandbox","ms":653.057,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeSandbox definition=MC_LevelPattern_LG_Residential34checkpoint seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeSandbox","ms":321.841,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeSandbox definition=MC_LevelPattern_LG_ResidentialChurch3 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeSandbox","ms":358.459,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeSandbox definition=MC_LevelPattern_LG_ResidentialChurch3 seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeMilitary","ms":214.326,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeMilitary definition=MC_LevelPattern_LG_Residential1 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeMilitary","ms":232.235,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeMilitary definition=MC_LevelPattern_LG_Residential1 seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeMilitary","ms":278.7,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeMilitary definition=MC_LevelPattern_LG_Residential34checkpoint seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeMilitary","ms":310.12,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeMilitary definition=MC_LevelPattern_LG_Residential34checkpoint seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeMilitary","ms":282.714,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeMilitary definition=MC_LevelPattern_LG_ResidentialChurch3 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeMilitary","ms":296.25,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeMilitary definition=MC_LevelPattern_LG_ResidentialChurch3 seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeChopperRescue","ms":214.114,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeChopperRescue definition=MC_LevelPattern_LG_Residential1 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential1","mode":"m_GameModeChopperRescue","ms":220.68,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeChopperRescue definition=MC_LevelPattern_LG_Residential1 seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeChopperRescue","ms":254.12,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeChopperRescue definition=MC_LevelPattern_LG_Residential34checkpoint seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_Residential34checkpoint","mode":"m_GameModeChopperRescue","ms":268.048,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeChopperRescue definition=MC_LevelPattern_LG_Residential34checkpoint seed=331
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeChopperRescue","ms":272.992,"seed":21}
+TEST_PATTERN_CASE mode=m_GameModeChopperRescue definition=MC_LevelPattern_LG_ResidentialChurch3 seed=21
+PATTERN_LOAD_TIMING {"definition":"MC_LevelPattern_LG_ResidentialChurch3","mode":"m_GameModeChopperRescue","ms":319.722,"seed":331}
+TEST_PATTERN_CASE mode=m_GameModeChopperRescue definition=MC_LevelPattern_LG_ResidentialChurch3 seed=331
+TEST_PATTERN_COMPLETE predicates=10164 loads=24 failures=[]

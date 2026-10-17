@@ -1,0 +1,29 @@
+{
+  "version": "0.3.1",
+  "engine": "Godot 4.7.2 Stable release",
+  "platform": "Windows x86_64",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "07465c62c98f28aff59b31bc7872faf41aa9c157a733abcf15aca315d5cc0ced",
+  "change": "Render canvas items at window resolution instead of upscaling a 600x400 framebuffer",
+  "texture_filter": "Linear",
+  "logical_size": [
+    600,
+    400
+  ],
+  "verified_gameplay_framebuffer_size": [
+    1200,
+    800
+  ],
+  "validation": {
+    "gameplay": "BINARY_GAMEPLAY_COMPLETE position=1.10436160400801 warnings={  }",
+    "script_shader_errors": [],
+    "pixel_dimensions_checked": true
+  },
+  "benchmark": "Not rerun for this rendering-only correction; historical 0.3 results are labeled.",
+  "preserved": [
+    "0.3 code optimizations",
+    "Original save location",
+    "Previous builds"
+  ]
+}

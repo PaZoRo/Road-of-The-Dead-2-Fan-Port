@@ -1,0 +1,61 @@
+extends RefCounted
+const R = preload("res://runtime/as_runtime.gd")
+
+static func f_MC_EditorInterface(c: Variant, a: Array) -> Variant:
+	R.invoke(R.super_ref(c, "MC_EditorInterface"), [])
+	return null
+
+static func f_init_statics(c: Variant, a: Array) -> Variant:
+	pass
+	return null
+
+static func f_init_fields(c: Variant, a: Array) -> Variant:
+	(c).fields["RateAreaPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["RatePatternPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["CampaignTypeDialog"] = R.coerce(null, "MovieClip")
+	(c).fields["PreviewInterface"] = R.coerce(null, "MovieClip")
+	(c).fields["RoadSelector"] = R.coerce(null, "MovieClip")
+	(c).fields["PatternsUnderline"] = R.coerce(null, "MovieClip")
+	(c).fields["HelpPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["AreaMenu"] = R.coerce(null, "MovieClip")
+	(c).fields["LoadScreen"] = R.coerce(null, "MovieClip")
+	(c).fields["AreasUnderline"] = R.coerce(null, "MovieClip")
+	(c).fields["StoryCampaignHint"] = R.coerce(null, "MovieClip")
+	(c).fields["SavePanel"] = R.coerce(null, "MovieClip")
+	(c).fields["AreaTypePanel"] = R.coerce(null, "MovieClip")
+	(c).fields["NoCampaignHint"] = R.coerce(null, "MovieClip")
+	(c).fields["ToggleMusic"] = R.coerce(null, "SimpleButton")
+	(c).fields["PatternMenu"] = R.coerce(null, "MovieClip")
+	(c).fields["AreaPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["CampaignPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["ControlsTutorial"] = R.coerce(null, "MovieClip")
+	(c).fields["PropertyPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["GoalTypePanel"] = R.coerce(null, "MovieClip")
+	(c).fields["ChainableGroupsPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["Endings"] = R.coerce(null, "MovieClip")
+	(c).fields["PassportPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["ApplyTutorial"] = R.coerce(null, "MovieClip")
+	(c).fields["CampaignPropertyPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["DialogBox"] = R.coerce(null, "MovieClip")
+	(c).fields["AreaGroupPropertyPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["PatternTypeDialog"] = R.coerce(null, "MovieClip")
+	(c).fields["Quit"] = R.coerce(null, "SimpleButton")
+	(c).fields["WarningMessage"] = R.coerce(null, "TextField")
+	(c).fields["HelpTutorial"] = R.coerce(null, "MovieClip")
+	(c).fields["ChallengeCampaignHint"] = R.coerce(null, "MovieClip")
+	(c).fields["ToolTip"] = R.coerce(null, "MovieClip")
+	(c).fields["CampaignMenu"] = R.coerce(null, "MovieClip")
+	(c).fields["LoadPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["PopulateBuildingsTypeDialog"] = R.coerce(null, "MovieClip")
+	(c).fields["FileToolTip"] = R.coerce(null, "MovieClip")
+	(c).fields["CampaignUnderline"] = R.coerce(null, "MovieClip")
+	(c).fields["ObjectsPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["Patterns"] = R.coerce(null, "SimpleButton")
+	(c).fields["Campaign"] = R.coerce(null, "SimpleButton")
+	(c).fields["Areas"] = R.coerce(null, "SimpleButton")
+	(c).fields["AreaPropertyPanel"] = R.coerce(null, "MovieClip")
+	(c).fields["LoadCampaignHint"] = R.coerce(null, "MovieClip")
+	(c).fields["Help"] = R.coerce(null, "SimpleButton")
+	(c).fields["DialogPicker"] = R.coerce(null, "MovieClip")
+	(c).fields["CannotPlaceIcon"] = R.coerce(null, "MovieClip")
+	return null

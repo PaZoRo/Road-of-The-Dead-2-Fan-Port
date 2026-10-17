@@ -1,0 +1,47 @@
+{
+  "version": "0.4.0",
+  "engine": "Godot 4.7.2 Stable release",
+  "platform": "Windows x86_64",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "60874b3197491b19e2974b745ca0754a80d7f1e87e8de15e0f232f18cef452ae",
+  "logical_size": [
+    600,
+    400
+  ],
+  "framebuffer_size": [
+    1200,
+    800
+  ],
+  "startup_ms": 9070,
+  "loading_visible_engine_ms": 1310,
+  "benchmark": {
+    "animation_ms": 3.23346648793566,
+    "draw_calls": 129.0,
+    "game_ms": 23.6322010723861,
+    "memory": null,
+    "physics_ms": 27.3975737265416,
+    "rendered_fps": 47.7419861500564,
+    "seconds": 15.102011,
+    "simulation_hz": 24.6986974118877,
+    "texture_memory": 341670897.0
+  },
+  "target_fps": 60,
+  "steady_60_fps_achieved": false,
+  "validation_suites": [
+    "compile_all",
+    "semantics_suite",
+    "native_performance_suite",
+    "runtime_regression_suite",
+    "batch_suite",
+    "initializers_suite",
+    "interface_suite",
+    "persistence_suite",
+    "modes_suite",
+    "weapons_suite",
+    "gameplay_suite"
+  ],
+  "original_translated_script_hashes_verified": 2774,
+  "gameplay": "BINARY_GAMEPLAY_COMPLETE position=161.919719436686 warnings={  }",
+  "save_location_changed": false
+}

@@ -1,0 +1,1719 @@
+{
+  "svg_count": 4286,
+  "inkscape_cases": 67,
+  "missing_content": [
+    {
+      "svg": "assets/shapes/6.svg",
+      "inkscape_size": [
+        120,
+        1
+      ],
+      "port_size": [
+        120,
+        1
+      ],
+      "inkscape_alpha": [
+        178,
+        204
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        120,
+        1
+      ],
+      "port_bounds": null,
+      "missing_content": true
+    },
+    {
+      "svg": "assets/shapes/8.svg",
+      "inkscape_size": [
+        120,
+        1
+      ],
+      "port_size": [
+        120,
+        1
+      ],
+      "inkscape_alpha": [
+        178,
+        204
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        120,
+        1
+      ],
+      "port_bounds": null,
+      "missing_content": true
+    }
+  ],
+  "comparisons": [
+    {
+      "svg": "assets/shapes/241.svg",
+      "inkscape_size": [
+        107,
+        106
+      ],
+      "port_size": [
+        107,
+        106
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/247.svg",
+      "inkscape_size": [
+        215,
+        80
+      ],
+      "port_size": [
+        215,
+        80
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/258.svg",
+      "inkscape_size": [
+        88,
+        67
+      ],
+      "port_size": [
+        88,
+        67
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/265.svg",
+      "inkscape_size": [
+        178,
+        64
+      ],
+      "port_size": [
+        178,
+        64
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/271.svg",
+      "inkscape_size": [
+        144,
+        109
+      ],
+      "port_size": [
+        144,
+        109
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/3137.svg",
+      "inkscape_size": [
+        285,
+        18
+      ],
+      "port_size": [
+        285,
+        18
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/3319.svg",
+      "inkscape_size": [
+        18,
+        18
+      ],
+      "port_size": [
+        18,
+        18
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/345.svg",
+      "inkscape_size": [
+        106,
+        75
+      ],
+      "port_size": [
+        106,
+        75
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/370.svg",
+      "inkscape_size": [
+        114,
+        63
+      ],
+      "port_size": [
+        114,
+        63
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/376.svg",
+      "inkscape_size": [
+        211,
+        72
+      ],
+      "port_size": [
+        211,
+        72
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/3957.svg",
+      "inkscape_size": [
+        241,
+        97
+      ],
+      "port_size": [
+        241,
+        97
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/3960.svg",
+      "inkscape_size": [
+        273,
+        100
+      ],
+      "port_size": [
+        273,
+        100
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4016.svg",
+      "inkscape_size": [
+        138,
+        72
+      ],
+      "port_size": [
+        138,
+        72
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4032.svg",
+      "inkscape_size": [
+        224,
+        105
+      ],
+      "port_size": [
+        224,
+        105
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4053.svg",
+      "inkscape_size": [
+        194,
+        120
+      ],
+      "port_size": [
+        194,
+        120
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4059.svg",
+      "inkscape_size": [
+        276,
+        100
+      ],
+      "port_size": [
+        276,
+        100
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4083.svg",
+      "inkscape_size": [
+        136,
+        84
+      ],
+      "port_size": [
+        136,
+        84
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4088.svg",
+      "inkscape_size": [
+        136,
+        84
+      ],
+      "port_size": [
+        136,
+        84
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4097.svg",
+      "inkscape_size": [
+        218,
+        74
+      ],
+      "port_size": [
+        218,
+        74
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4108.svg",
+      "inkscape_size": [
+        160,
+        65
+      ],
+      "port_size": [
+        160,
+        65
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4116.svg",
+      "inkscape_size": [
+        128,
+        68
+      ],
+      "port_size": [
+        128,
+        68
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4208.svg",
+      "inkscape_size": [
+        178,
+        178
+      ],
+      "port_size": [
+        178,
+        178
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/427.svg",
+      "inkscape_size": [
+        107,
+        95
+      ],
+      "port_size": [
+        107,
+        95
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/454.svg",
+      "inkscape_size": [
+        102,
+        79
+      ],
+      "port_size": [
+        102,
+        79
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/465.svg",
+      "inkscape_size": [
+        96,
+        75
+      ],
+      "port_size": [
+        96,
+        75
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/5043.svg",
+      "inkscape_size": [
+        1003,
+        306
+      ],
+      "port_size": [
+        1003,
+        306
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/5123.svg",
+      "inkscape_size": [
+        5651,
+        429
+      ],
+      "port_size": [
+        5651,
+        429
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/531.svg",
+      "inkscape_size": [
+        282,
+        118
+      ],
+      "port_size": [
+        282,
+        118
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/550.svg",
+      "inkscape_size": [
+        223,
+        103
+      ],
+      "port_size": [
+        223,
+        103
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/6.svg",
+      "inkscape_size": [
+        120,
+        1
+      ],
+      "port_size": [
+        120,
+        1
+      ],
+      "inkscape_alpha": [
+        178,
+        204
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        120,
+        1
+      ],
+      "port_bounds": null,
+      "missing_content": true
+    },
+    {
+      "svg": "assets/shapes/7144.svg",
+      "inkscape_size": [
+        110,
+        110
+      ],
+      "port_size": [
+        110,
+        110
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/8.svg",
+      "inkscape_size": [
+        120,
+        1
+      ],
+      "port_size": [
+        120,
+        1
+      ],
+      "inkscape_alpha": [
+        178,
+        204
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        120,
+        1
+      ],
+      "port_bounds": null,
+      "missing_content": true
+    },
+    {
+      "svg": "assets/shapes/8318.svg",
+      "inkscape_size": [
+        957,
+        526
+      ],
+      "port_size": [
+        957,
+        526
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/8320.svg",
+      "inkscape_size": [
+        1076,
+        558
+      ],
+      "port_size": [
+        1076,
+        558
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/8322.svg",
+      "inkscape_size": [
+        1330,
+        621
+      ],
+      "port_size": [
+        1330,
+        621
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/8483.svg",
+      "inkscape_size": [
+        625,
+        156
+      ],
+      "port_size": [
+        625,
+        156
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/8486.svg",
+      "inkscape_size": [
+        625,
+        156
+      ],
+      "port_size": [
+        625,
+        156
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/8488.svg",
+      "inkscape_size": [
+        625,
+        156
+      ],
+      "port_size": [
+        625,
+        156
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/8540.svg",
+      "inkscape_size": [
+        110,
+        70
+      ],
+      "port_size": [
+        110,
+        70
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/133.svg",
+      "inkscape_size": [
+        50,
+        18
+      ],
+      "port_size": [
+        50,
+        18
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/135.svg",
+      "inkscape_size": [
+        164,
+        36
+      ],
+      "port_size": [
+        164,
+        36
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/3122.svg",
+      "inkscape_size": [
+        75,
+        17
+      ],
+      "port_size": [
+        75,
+        17
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/3131.svg",
+      "inkscape_size": [
+        185,
+        31
+      ],
+      "port_size": [
+        185,
+        31
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/3136.svg",
+      "inkscape_size": [
+        60,
+        18
+      ],
+      "port_size": [
+        60,
+        18
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/3138.svg",
+      "inkscape_size": [
+        35,
+        18
+      ],
+      "port_size": [
+        35,
+        18
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/3139.svg",
+      "inkscape_size": [
+        150,
+        18
+      ],
+      "port_size": [
+        150,
+        18
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/3140.svg",
+      "inkscape_size": [
+        90,
+        18
+      ],
+      "port_size": [
+        90,
+        18
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/morphshapes/8482/10_of_10.svg",
+      "inkscape_size": [
+        625,
+        156
+      ],
+      "port_size": [
+        625,
+        156
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/morphshapes/8485/10_of_10.svg",
+      "inkscape_size": [
+        625,
+        156
+      ],
+      "port_size": [
+        625,
+        156
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/morphshapes/8487/10_of_10.svg",
+      "inkscape_size": [
+        625,
+        156
+      ],
+      "port_size": [
+        625,
+        156
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/morphshapes/8539/10_of_10.svg",
+      "inkscape_size": [
+        621,
+        425
+      ],
+      "port_size": [
+        621,
+        425
+      ],
+      "inkscape_alpha": [
+        0,
+        0
+      ],
+      "port_alpha": [
+        0,
+        0
+      ],
+      "inkscape_bounds": null,
+      "port_bounds": null,
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/1028.svg",
+      "inkscape_size": [
+        7543,
+        740
+      ],
+      "port_size": [
+        7543,
+        740
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        7543,
+        740
+      ],
+      "port_bounds": [
+        0,
+        0,
+        7543,
+        740
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/200.svg",
+      "inkscape_size": [
+        1000,
+        4254
+      ],
+      "port_size": [
+        1000,
+        4254
+      ],
+      "inkscape_alpha": [
+        221,
+        255
+      ],
+      "port_alpha": [
+        128,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        1000,
+        4254
+      ],
+      "port_bounds": [
+        0,
+        0,
+        1000,
+        4254
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4135.svg",
+      "inkscape_size": [
+        4683,
+        756
+      ],
+      "port_size": [
+        4683,
+        756
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        4683,
+        756
+      ],
+      "port_bounds": [
+        0,
+        0,
+        4683,
+        756
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4350.svg",
+      "inkscape_size": [
+        4683,
+        756
+      ],
+      "port_size": [
+        4683,
+        756
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        4683,
+        756
+      ],
+      "port_bounds": [
+        0,
+        0,
+        4683,
+        756
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/887.svg",
+      "inkscape_size": [
+        3367,
+        900
+      ],
+      "port_size": [
+        3367,
+        900
+      ],
+      "inkscape_alpha": [
+        255,
+        255
+      ],
+      "port_alpha": [
+        255,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        3367,
+        900
+      ],
+      "port_bounds": [
+        0,
+        0,
+        3367,
+        900
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/1002.svg",
+      "inkscape_size": [
+        2660,
+        900
+      ],
+      "port_size": [
+        2660,
+        900
+      ],
+      "inkscape_alpha": [
+        221,
+        255
+      ],
+      "port_alpha": [
+        255,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        2660,
+        900
+      ],
+      "port_bounds": [
+        0,
+        0,
+        2660,
+        900
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/10.svg",
+      "inkscape_size": [
+        132,
+        24
+      ],
+      "port_size": [
+        132,
+        24
+      ],
+      "inkscape_alpha": [
+        207,
+        255
+      ],
+      "port_alpha": [
+        178,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        132,
+        24
+      ],
+      "port_bounds": [
+        0,
+        0,
+        132,
+        24
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/10986.svg",
+      "inkscape_size": [
+        371,
+        707
+      ],
+      "port_size": [
+        371,
+        707
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        371,
+        707
+      ],
+      "port_bounds": [
+        0,
+        0,
+        371,
+        707
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/220.svg",
+      "inkscape_size": [
+        154,
+        309
+      ],
+      "port_size": [
+        154,
+        309
+      ],
+      "inkscape_alpha": [
+        0,
+        200
+      ],
+      "port_alpha": [
+        0,
+        200
+      ],
+      "inkscape_bounds": [
+        2,
+        21,
+        154,
+        275
+      ],
+      "port_bounds": [
+        2,
+        21,
+        154,
+        275
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/3646.svg",
+      "inkscape_size": [
+        212,
+        34
+      ],
+      "port_size": [
+        212,
+        34
+      ],
+      "inkscape_alpha": [
+        0,
+        204
+      ],
+      "port_alpha": [
+        0,
+        204
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        212,
+        34
+      ],
+      "port_bounds": [
+        0,
+        0,
+        212,
+        34
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/4656.svg",
+      "inkscape_size": [
+        95,
+        166
+      ],
+      "port_size": [
+        95,
+        166
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        95,
+        166
+      ],
+      "port_bounds": [
+        0,
+        0,
+        95,
+        166
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/5666.svg",
+      "inkscape_size": [
+        130,
+        179
+      ],
+      "port_size": [
+        130,
+        179
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        130,
+        179
+      ],
+      "port_bounds": [
+        0,
+        0,
+        130,
+        179
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/6746.svg",
+      "inkscape_size": [
+        95,
+        152
+      ],
+      "port_size": [
+        95,
+        152
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        95,
+        152
+      ],
+      "port_bounds": [
+        0,
+        0,
+        95,
+        152
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/shapes/7830.svg",
+      "inkscape_size": [
+        82,
+        51
+      ],
+      "port_size": [
+        82,
+        51
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        0,
+        0,
+        82,
+        51
+      ],
+      "port_bounds": [
+        0,
+        0,
+        82,
+        51
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/2531.svg",
+      "inkscape_size": [
+        105,
+        28
+      ],
+      "port_size": [
+        105,
+        28
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        22,
+        6,
+        87,
+        23
+      ],
+      "port_bounds": [
+        22,
+        6,
+        86,
+        23
+      ],
+      "missing_content": false
+    },
+    {
+      "svg": "assets/texts/3395.svg",
+      "inkscape_size": [
+        585,
+        178
+      ],
+      "port_size": [
+        585,
+        178
+      ],
+      "inkscape_alpha": [
+        0,
+        255
+      ],
+      "port_alpha": [
+        0,
+        255
+      ],
+      "inkscape_bounds": [
+        1,
+        4,
+        585,
+        106
+      ],
+      "port_bounds": [
+        2,
+        5,
+        585,
+        106
+      ],
+      "missing_content": false
+    }
+  ],
+  "comparison_phase": "Before corrections; missing_content records the original raster defects.",
+  "applied_corrections": [
+    {
+      "path": "assets/shapes/6.png",
+      "matches_inkscape_output": true,
+      "sha256": "35629814fcaf6d7be4d84c1bfadc4a69b520c43faa44bf5dfb3b1337c8e8d327"
+    },
+    {
+      "path": "assets/shapes/8.png",
+      "matches_inkscape_output": true,
+      "sha256": "9acd78335c803f2d245cbc1fa1773e45ac993821bcacde9985e1039d73bf5ae5"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" uid="uid://bltlx2k2q0801" path="res://runtime/main.gd" id="1"]
+
+[node name="RoadOfTheDead2" type="Node2D" unique_id=1129560763]
+script = ExtResource("1")
+
+[node name="GameDisplay" type="Node2D" parent="." unique_id=757833495]
+
+[node name="Audio" type="Node" parent="." unique_id=360805480]

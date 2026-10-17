@@ -1,0 +1,97 @@
+{
+  "version": "0.4.2",
+  "engine": "Godot 4.7.2 Stable release",
+  "platform": "Windows x86_64",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "f4b61097e8777fec0c88baaae9adb79ba818cbfd1083956d3581e950a104e1fe",
+  "logical_size": [
+    600,
+    400
+  ],
+  "framebuffer_size": [
+    1200,
+    800
+  ],
+  "startup_ms": 6367,
+  "loading_visible_engine_ms": 1162,
+  "benchmark": {
+    "animation_ms": 3.1093325415677,
+    "draw_calls": 135.0,
+    "game_ms": 17.6615843230404,
+    "memory": null,
+    "physics_ms": 21.3118764845606,
+    "rendered_fps": 55.1731012740255,
+    "seconds": 15.007313,
+    "simulation_hz": 28.0529898989912,
+    "texture_memory": 341205377.0
+  },
+  "frame_pacing": {
+    "engine_physics_hz": 28.0529898989912,
+    "frames": {
+      "over_20ms_percent": 50.1813784764208,
+      "p50_ms": 20.356,
+      "p95_ms": 38.577,
+      "p99_ms": 44.258,
+      "samples": 827,
+      "worst_ms": 604.345
+    },
+    "max_steps": 2,
+    "measured_updates_hz": 28.0529898989912,
+    "physics_ticks_per_second": 30,
+    "time_scale": 1.0
+  },
+  "same_executable_control_without_source_bundles": {
+    "benchmark": {
+      "animation_ms": 3.13538605898123,
+      "draw_calls": 137.0,
+      "game_ms": 22.3842761394102,
+      "memory": null,
+      "physics_ms": 26.0582761394102,
+      "rendered_fps": 48.5817813395248,
+      "seconds": 15.026209,
+      "simulation_hz": 24.8232937529353,
+      "texture_memory": 340831901.0
+    },
+    "pacing": {
+      "engine_physics_hz": 24.8232937529353,
+      "frames": {
+        "over_20ms_percent": 50.480109739369,
+        "p50_ms": 20.61,
+        "p95_ms": 37.744,
+        "p99_ms": 44.147,
+        "samples": 729,
+        "worst_ms": 2003.604
+      },
+      "max_steps": 2,
+      "measured_updates_hz": 24.8232937529353,
+      "physics_ticks_per_second": 30,
+      "time_scale": 1.0
+    },
+    "startup_ms": 8737,
+    "visible_ms": 1313,
+    "completion": "BINARY_GAMEPLAY_COMPLETE position=171.303195573387 warnings={  }"
+  },
+  "source_bundle_classes": 501,
+  "source_bundle_functions": 4684,
+  "target_fps": 60,
+  "steady_60_fps_achieved": false,
+  "validation_suites": [
+    "source_bundle_suite",
+    "semantics_suite",
+    "native_performance_suite",
+    "road_surface_suite",
+    "spatial_audio_suite",
+    "runtime_regression_suite",
+    "batch_suite",
+    "initializers_suite",
+    "interface_suite",
+    "persistence_suite",
+    "modes_suite",
+    "weapons_suite",
+    "gameplay_suite"
+  ],
+  "original_translated_script_hashes_verified": 2774,
+  "gameplay": "BINARY_GAMEPLAY_COMPLETE position=192.368197786166 warnings={  }",
+  "save_location_changed": false
+}

@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" uid="uid://cmxo32kbxvrpe" path="res://runtime/boot.gd" id="1"]
+
+[node name="Boot" type="Node" unique_id=48975174]
+script = ExtResource("1")

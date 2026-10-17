@@ -1,0 +1,34 @@
+GDRE Tools v2.7.4
+Windows 10.0.19045, Radeon RX550/550 Series, vulkan
+Opening file: C:/Users/sandu/Desktop/Keep this Files/Road of The Dead Project/Road of the Dead 2 - Fan Port Project/Road of the Dead 2 - Fan Port v0.4.23 (Experimental)/Road of the Dead 2.exe
+Loaded 2840 imported files
+Detected Engine Version: 4.7.2
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Verified 25333 files, no errors detected!
+Extracted 25333 files, no errors detected!
+Recreating plugin configs...
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     2805
+Scripts not decompiled:                 0
+Imported resources for export session:  2840
+Successfully converted:                 2840
+Lossy:                                  28
+Rewrote metadata:                       33
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.7.2 to edit the project.
+
+*******************************************************************************
+

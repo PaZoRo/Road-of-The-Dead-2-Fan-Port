@@ -1,0 +1,44 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.5.2.260413 - Compatibility - Using Device: ATI Technologies Inc. - Radeon RX550/550 Series
+
+[Newgrounds API] :: Ad destroyed.
+PORT_BOOT frame=58 classes=2774
+VISUAL_VIEWPORT { "m_iWidth": 600, "m_iHalfWidth": 300, "m_iQuarterWidth": 150, "m_iEightWidth": 75, "m_iHeight": 400, "m_iHalfHeight": 200, "m_iQuarterHeight": 100, "m_iEightHeight": 50 }
+VISUAL_SELECTION BackButton visible=false
+VISUAL_SELECTION MenuButton visible=true
+VISUAL_SELECTION SwitchVehicle visible=false
+VISUAL_SELECTION JohnCarUnlocked visible=false
+VISUAL_SELECTION DianeWeaponStats visible=false
+VISUAL_SELECTION CochetaWeaponStats visible=false
+VISUAL_LAYERS world=[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] hud=[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)]
+VISUAL_CAMERA { "X": 99.8656359884768, "Y": 52.0680606836015, "Z": 3.52029929941866 } render=519.615242270663,346.410161513776
+VISUAL_PLAYER main=[X: (1.211015, 0.0), Y: (0.0, 1.211015), O: (300.0, 671.5027)] visible=true
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=2
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=216 total=223
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=4 total=5
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=1 total=4
+VISUAL_ROAD_PARENT RoadOfTheDead_fla.MainTimeline [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_PARENT Stage [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_POLYGONS 2
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=2
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=203 total=223
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=4 total=5
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=1 total=4
+VISUAL_ROAD_PARENT RoadOfTheDead_fla.MainTimeline [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_PARENT Stage [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_POLYGONS 2
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=2
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=217 total=223
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=4 total=5
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=1 total=4
+VISUAL_ROAD_PARENT RoadOfTheDead_fla.MainTimeline [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_PARENT Stage [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_POLYGONS 5
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=2
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=204 total=223
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=4 total=5
+VISUAL_ROAD_PARENT MovieClip [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=1 total=4
+VISUAL_ROAD_PARENT RoadOfTheDead_fla.MainTimeline [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_PARENT Stage [X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)] visible=true alpha=(1.0, 1.0, 1.0, 1.0) child=0 total=1
+VISUAL_ROAD_POLYGONS 5
+TEST_VISUAL_COMPLETE warnings={  }

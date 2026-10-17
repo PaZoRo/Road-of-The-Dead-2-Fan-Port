@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+ROAD_RENDERER_PERFORMANCE {"cases":[{"kind":"Town","samples_ms":[[1.9852,1.96052,1.95626,1.96153,1.96006,2.03229],[1.51601,1.50268,1.5,1.51678,1.51227,1.52054]]},{"kind":"Highway","samples_ms":[[1.60743,1.55529,1.5487,1.55973,1.55709,1.55943],[1.20937,1.19849,1.21105,1.20405,1.19673,1.19959]]},{"kind":"Alleyway","samples_ms":[[1.60231,1.61365,1.61269,1.60377,1.75633,1.60787],[1.26265,1.24225,1.25164,1.25157,1.24367,1.24904]]},{"kind":"Mixed","samples_ms":[[1.70691,1.76913,1.72065,1.71031,1.7276,1.78656],[1.36869,1.41771,1.3744,1.36695,1.38813,1.37803]]}],"warnings":{}}

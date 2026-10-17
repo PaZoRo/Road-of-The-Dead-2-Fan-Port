@@ -1,0 +1,424 @@
+{
+  "version": "0.4.8",
+  "engine": "Godot 4.7.2 Stable release",
+  "platform": "Windows x86_64",
+  "standalone": true,
+  "embedded_assets": true,
+  "exe_sha256": "f89b087528e1df3a6d6c89bf56a7b775e8196bb4ad410ba65e24200e6916b0c3",
+  "logical_size": [
+    600,
+    400
+  ],
+  "framebuffer_size": [
+    1200,
+    800
+  ],
+  "render_cap": 90,
+  "startup_ms": 6384,
+  "loading_visible_engine_ms": 1222,
+  "benchmark": {
+    "animation_ms": 2.69612328767123,
+    "draw_calls": 131.0,
+    "game_ms": 15.4017762557078,
+    "gpu_pause_snapshot_ms": 41.723,
+    "gpu_pause_snapshots": 1,
+    "memory": null,
+    "physics_ms": 18.6162534246575,
+    "rendered_fps": 83.193457400291,
+    "seconds": 15.02522,
+    "simulation_hz": 29.150987473062,
+    "text_cache_entries": 120,
+    "texture_memory": 284706821.0
+  },
+  "frame_pacing": {
+    "engine_physics_hz": 29.150987473062,
+    "frames": {
+      "over_20ms_percent": 33.146517213771,
+      "p50_ms": 2.344,
+      "p95_ms": 31.654,
+      "p99_ms": 36.389,
+      "samples": 1249,
+      "worst_ms": 318.277
+    },
+    "max_steps": 2,
+    "measured_updates_hz": 29.150987473062,
+    "physics_ticks_per_second": 30,
+    "render_cap": 90,
+    "time_scale": 1.0
+  },
+  "previous_0_4_7_executable_control": {
+    "benchmark": {
+      "animation_ms": 3.0744118993135,
+      "draw_calls": 131.0,
+      "game_ms": 16.031590389016,
+      "memory": null,
+      "physics_ms": 19.640995423341,
+      "rendered_fps": 82.0661446470044,
+      "seconds": 15.024466,
+      "simulation_hz": 29.0858923039261,
+      "texture_memory": 284969237.0
+    },
+    "pacing": {
+      "engine_physics_hz": 29.0858923039261,
+      "frames": {
+        "over_20ms_percent": 34.7402597402597,
+        "p50_ms": 2.171,
+        "p95_ms": 32.554,
+        "p99_ms": 37.262,
+        "samples": 1232,
+        "worst_ms": 330.689
+      },
+      "max_steps": 2,
+      "measured_updates_hz": 29.0858923039261,
+      "physics_ticks_per_second": 30,
+      "render_cap": 90,
+      "time_scale": 1.0
+    },
+    "startup_ms": 6257,
+    "visible_ms": 1196,
+    "completion": "BINARY_GAMEPLAY_COMPLETE position=189.216587295175 warnings={  }"
+  },
+  "repeated_comparison": {
+    "previous": {
+      "benchmark": {
+        "animation_ms": 3.07757437070938,
+        "draw_calls": 131.0,
+        "game_ms": 16.1498970251716,
+        "memory": null,
+        "physics_ms": 19.7643844393593,
+        "rendered_fps": 81.520944100304,
+        "seconds": 15.03908,
+        "simulation_hz": 29.0576285251491,
+        "texture_memory": 284969237.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.0576285251491,
+        "frames": {
+          "over_20ms_percent": 34.8571428571429,
+          "p50_ms": 2.129,
+          "p95_ms": 31.786,
+          "p99_ms": 37.115,
+          "samples": 1225,
+          "worst_ms": 334.111
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.0576285251491,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "startup_ms": 6272,
+      "visible_ms": 1206,
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=189.290095087385 warnings={  }"
+    },
+    "updated": {
+      "benchmark": {
+        "animation_ms": 2.69393849658314,
+        "draw_calls": 131.0,
+        "game_ms": 15.2493849658314,
+        "gpu_pause_snapshot_ms": 41.312,
+        "gpu_pause_snapshots": 1,
+        "memory": null,
+        "physics_ms": 18.4448724373576,
+        "rendered_fps": 83.4888021226246,
+        "seconds": 15.031956,
+        "simulation_hz": 29.204449507436,
+        "text_cache_entries": 120,
+        "texture_memory": 281782817.0
+      },
+      "pacing": {
+        "engine_physics_hz": 29.204449507436,
+        "frames": {
+          "over_20ms_percent": 33.4130781499203,
+          "p50_ms": 2.376,
+          "p95_ms": 32.206,
+          "p99_ms": 36.283,
+          "samples": 1254,
+          "worst_ms": 286.472
+        },
+        "max_steps": 2,
+        "measured_updates_hz": 29.204449507436,
+        "physics_ticks_per_second": 30,
+        "render_cap": 90,
+        "time_scale": 1.0
+      },
+      "startup_ms": 6380,
+      "visible_ms": 1216,
+      "completion": "BINARY_GAMEPLAY_COMPLETE position=197.768899925779 warnings={  }"
+    }
+  },
+  "same_build_60_cap_control": {
+    "benchmark": {
+      "animation_ms": 2.71020728929385,
+      "draw_calls": 131.0,
+      "game_ms": 15.4626514806378,
+      "gpu_pause_snapshot_ms": 42.098,
+      "gpu_pause_snapshots": 1,
+      "memory": null,
+      "physics_ms": 18.6911002277904,
+      "rendered_fps": 57.647878777482,
+      "seconds": 15.039582,
+      "simulation_hz": 29.1896410418853,
+      "text_cache_entries": 120,
+      "texture_memory": 281782817.0
+    },
+    "pacing": {
+      "engine_physics_hz": 29.1896410418853,
+      "frames": {
+        "over_20ms_percent": 41.8013856812933,
+        "p50_ms": 18.23,
+        "p95_ms": 36.911,
+        "p99_ms": 42.215,
+        "samples": 866,
+        "worst_ms": 295.465
+      },
+      "max_steps": 2,
+      "measured_updates_hz": 29.1896410418853,
+      "physics_ticks_per_second": 30,
+      "render_cap": 60,
+      "time_scale": 1.0
+    },
+    "startup_ms": 6498,
+    "visible_ms": 1248,
+    "completion": "BINARY_GAMEPLAY_COMPLETE position=197.741848146805 warnings={  }"
+  },
+  "player_state": {
+    "fail_type": -1,
+    "failed": false,
+    "hp": null,
+    "interior_alpha": 1.0,
+    "interior_frame": 1,
+    "interior_visible": true
+  },
+  "target_fps": 60,
+  "steady_60_fps_achieved": false,
+  "gpu_pause_capture": true,
+  "pause_interface_integration_passed": true,
+  "gpu_snapshot_comparison_cases": 12,
+  "gpu_snapshot_max_channel_delta": 1,
+  "pause_graphical_fixture_comparison": {
+    "reference": {
+      "result": {
+        "after": {
+          "memory": 700495125.0,
+          "nodes": 1777.0,
+          "orphans": 3505.0
+        },
+        "before": {
+          "memory": 680582452.0,
+          "nodes": 1801.0,
+          "orphans": 3362.0
+        },
+        "deferred_visual_frames": 35435,
+        "gpu_pause_snapshot_ms": 0.0,
+        "gpu_pause_snapshots": 0,
+        "graphical": true,
+        "mean_update_ms": 21.0828388888889,
+        "p95_update_ms": 29.188,
+        "phase_mean_ms": {
+          "animation_us": 3.93369444444444,
+          "effects_us": 0.293769444444444,
+          "gameplay_us": 16.3088472222222,
+          "pointer_us": 0.530233333333333,
+          "render_us": 0.00602777777777778
+        },
+        "position": 58.0241862361453,
+        "recycled_shapes": 3794,
+        "ticks": 360,
+        "wall_fps": 35.1477548151204,
+        "warnings": {}
+      },
+      "pause": {
+        "gpu_ms": 0.0,
+        "gpu_snapshots": 0,
+        "ms": 900.458,
+        "world_transform": "[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)]"
+      }
+    },
+    "native": {
+      "result": {
+        "after": {
+          "memory": 680259015.0,
+          "nodes": 1628.0,
+          "orphans": 3486.0
+        },
+        "before": {
+          "memory": 664100320.0,
+          "nodes": 1754.0,
+          "orphans": 3362.0
+        },
+        "deferred_visual_frames": 36385,
+        "gpu_pause_snapshot_ms": 159.255,
+        "gpu_pause_snapshots": 2,
+        "graphical": true,
+        "mean_update_ms": 20.6042527777778,
+        "p95_update_ms": 28.556,
+        "phase_mean_ms": {
+          "animation_us": 3.43528611111111,
+          "effects_us": 0.301319444444444,
+          "gameplay_us": 16.3198027777778,
+          "pointer_us": 0.532111111111111,
+          "render_us": 0.00586666666666667
+        },
+        "position": 58.7527187499073,
+        "recycled_shapes": 1994,
+        "ticks": 360,
+        "wall_fps": 39.609681794521,
+        "warnings": {}
+      },
+      "pause": {
+        "gpu_ms": 159.255,
+        "gpu_snapshots": 2,
+        "ms": 41.32,
+        "world_transform": "[X: (1.0, 0.0), Y: (0.0, 1.0), O: (0.0, 0.0)]"
+      }
+    }
+  },
+  "same_scene_capture_cpu_gpu_comparison": {
+    "cpu": {
+      "ms": 921.804,
+      "new_model_values": 159,
+      "snapshots": 0
+    },
+    "gpu": {
+      "ms": 26.72,
+      "new_model_values": 0,
+      "snapshots": 1
+    }
+  },
+  "cached_text": true,
+  "text_comparison_cases": 715,
+  "text_assignment_cases": 1430,
+  "text_cpu_timings": {
+    "cases": [
+      {
+        "cached_us": 4.99766666666667,
+        "kind": "plain_repeat",
+        "previous_us": 19.7576666666667,
+        "samples_us": [
+          [
+            20.042,
+            19.88,
+            19.54,
+            20.014,
+            19.488,
+            19.582
+          ],
+          [
+            4.788,
+            4.744,
+            5.276,
+            4.922,
+            4.768,
+            5.488
+          ]
+        ]
+      },
+      {
+        "cached_us": 17.986,
+        "kind": "plain_changing",
+        "previous_us": 20.917,
+        "samples_us": [
+          [
+            20.852,
+            20.254,
+            20.446,
+            21.872,
+            21.292,
+            20.786
+          ],
+          [
+            18.036,
+            17.916,
+            17.918,
+            17.352,
+            18.662,
+            18.032
+          ]
+        ]
+      },
+      {
+        "cached_us": 34.0276666666667,
+        "kind": "html_assignment",
+        "previous_us": 60.5623333333333,
+        "samples_us": [
+          [
+            60.568,
+            60.636,
+            60.286,
+            60.422,
+            60.998,
+            60.464
+          ],
+          [
+            34.568,
+            34.22,
+            33.734,
+            33.828,
+            34.0,
+            33.816
+          ]
+        ]
+      },
+      {
+        "cached_us": 7.91666666666667,
+        "kind": "alignment",
+        "previous_us": 12.614,
+        "samples_us": [
+          [
+            12.616,
+            12.546,
+            13.5,
+            12.656,
+            12.112,
+            12.254
+          ],
+          [
+            7.684,
+            8.266,
+            7.932,
+            7.518,
+            7.712,
+            8.388
+          ]
+        ]
+      }
+    ],
+    "instances_per_implementation_per_case": 3000,
+    "warnings": {}
+  },
+  "initializer_classes_compared_to_source": 2772,
+  "value_constructor_comparison_cases": 1280,
+  "pattern_snapshots_identical": true,
+  "pattern_load_reference_cases": 24,
+  "pattern_snapshot_sha256": "d0ca1fc3aea9a54f7f219e649f364b9e6de185668fc2301a094d1da006292638",
+  "original_translated_script_hashes_verified": 2774,
+  "source_bundle_classes": 501,
+  "source_bundle_functions": 4674,
+  "validation_suites": [
+    "source_bundle_suite",
+    "semantics_suite",
+    "native_performance_suite",
+    "road_surface_suite",
+    "spatial_audio_suite",
+    "runtime_regression_suite",
+    "batch_suite",
+    "initializers_suite",
+    "value_construction_suite",
+    "text_suite",
+    "snapshot_suite",
+    "interface_suite",
+    "persistence_suite",
+    "modes_suite",
+    "weapons_suite",
+    "gameplay_suite",
+    "depth_suite",
+    "placement_suite",
+    "collision_suite",
+    "pattern_data_suite",
+    "spawning_suite",
+    "pattern_suite"
+  ],
+  "gameplay": "BINARY_GAMEPLAY_COMPLETE position=189.575980142189 warnings={  }",
+  "save_location_changed": false
+}

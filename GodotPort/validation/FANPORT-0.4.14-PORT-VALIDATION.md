@@ -1,0 +1,3 @@
+# Fan Port 0.4.14 validation
+
+Verified PE64 and embedded pack, 32 functional suites, 24 byte-identical native/reference pattern snapshots, 12 GPU snapshot cases, pause/resume integration, projected-entity GPU motion sampling and eight successful 15-second release driving runs. One additional 60-second diagnostic includes unattended-player failure around 46 seconds; it does not prove uninterrupted driving for that duration. All 2,774 original script hashes, 4,674 complete reference function bodies and 20 readable native helpers remain verified. Steady 60 FPS remains unfinished. See PERFORMANCE.md and WINDOWS-BUILD.json.
