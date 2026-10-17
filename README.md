@@ -24,7 +24,7 @@ This is an unfinished experimental project made for fun, learning, and experimen
 
 ### Requirements
 
-- [Godot Engine](https://godotengine.org/) — use a compatible version for this project.
+- [Godot Engine](https://godotengine.org/) — use a compatible version for this project.(4.7.2)
 - A Windows PC or another system supported by Godot.
 
 ### Opening the Project
